@@ -1,0 +1,1707 @@
+{
+  "total_feedback": 2601,
+  "theme_counts": {
+    "location-based filtering": 2,
+    "content source control": 2,
+    "content relevance and updates": 2,
+    "user interface and experience": 3,
+    "language and localization": 2,
+    "personalization features": 2,
+    "social sharing": 1,
+    "visual content issues": 1,
+    "threaded discussions": 1,
+    "appreciation and positive feedback": 2,
+    "factual errors": 41,
+    "image relevance": 9,
+    "appreciation": 2,
+    "western bias": 1,
+    "relevance of content": 1,
+    "ui issues on iphone": 1,
+    "feature request: bookmarking": 1,
+    "irrelevant content": 2,
+    "spoiler alerts": 2,
+    "tagging and content relevance": 3,
+    "factual accuracy": 7,
+    "technical issues": 1,
+    "content bias": 3,
+    "misleading headlines": 5,
+    "incorrect images": 9,
+    "authentication errors": 1,
+    "language preferences": 2,
+    "data usage concerns": 1,
+    "outdated related articles": 1,
+    "bias in content": 1,
+    "rumor vs. official information": 1,
+    "irrelevant images": 1,
+    "language support": 3,
+    "location-based article accuracy": 1,
+    "content personalization issues": 5,
+    "app icon customization": 1,
+    "negative news content": 1,
+    "customizable default news view": 1,
+    "language support - german": 1,
+    "language support - chinese": 2,
+    "alternative login options": 1,
+    "headline accuracy": 1,
+    "general satisfaction": 1,
+    "political spectrum analysis": 1,
+    "publication date filter": 1,
+    "tagging errors": 1,
+    "outdated articles": 1,
+    "source coverage": 1,
+    "customizable ai summaries": 2,
+    "spoiler warnings": 1,
+    "content accuracy": 13,
+    "spoilers": 3,
+    "text-to-speech (tts) issues": 2,
+    "image mismatch": 7,
+    "content diversity": 2,
+    "ai summary quality": 1,
+    "political spectrum bias": 1,
+    "incorrect information": 5,
+    "political alignment colors": 1,
+    "capitalization errors": 1,
+    "translation support": 1,
+    "content availability": 2,
+    "game progress issues": 1,
+    "news source diversity": 1,
+    "mismatched images": 2,
+    "incorrect article timing": 1,
+    "geographical inaccuracies": 1,
+    "distracting advertisements": 1,
+    "feature request: table and markdown support": 1,
+    "content relevance and clustering": 2,
+    "follow story feature": 1,
+    "image accuracy": 1,
+    "historical context": 1,
+    "customization of daily digest": 1,
+    "content relevance": 5,
+    "missing information": 1,
+    "selection issues": 1,
+    "inappropriate images": 1,
+    "harmful or sensitive content": 3,
+    "game hints and answers": 2,
+    "user interface design": 1,
+    "media viewing experience": 1,
+    "voice and language options": 1,
+    "content personalization": 2,
+    "content quality": 3,
+    "outdated sources": 1,
+    "spoilers in headlines": 1,
+    "performance issues": 3,
+    "headline rewriting issues": 1,
+    "positive feedback and recommendations": 1,
+    "language availability": 1,
+    "clarification on sports reporting": 1,
+    "headline misleading": 1,
+    "old news": 1,
+    "content preferences": 6,
+    "content filtering": 4,
+    "publisher suggestions": 1,
+    "positive feedback": 11,
+    "image errors": 2,
+    "spelling mistakes": 1,
+    "link errors": 1,
+    "elon musk and doge": 3,
+    "translation and language support": 2,
+    "article content and presentation": 3,
+    "article completeness and detail": 2,
+    "feedback on specific stories": 2,
+    "downvoted feedback": 8,
+    "doge and government waste": 3,
+    "misclassification of news": 1,
+    "legal and privacy concerns": 1,
+    "hp acquisition of humane": 1,
+    "probationary employee layoffs": 1,
+    "international aid programs": 1,
+    "inappropriate content highlighting": 1,
+    "downvoted content": 4,
+    "political opinions": 1,
+    "repetitive content": 1,
+    "downvotes": 4,
+    "image issues": 4,
+    "discrimination and legal risks": 2,
+    "inexperience in governance": 1,
+    "stopping musk's influence": 1,
+    "positive ai feature experience": 1,
+    "inline link errors": 1,
+    "trump's gaza plan criticism": 3,
+    "feature request: customization": 1,
+    "content organization": 1,
+    "link issues": 1,
+    "user engagement": 3,
+    "biased content": 1,
+    "navigation issues": 2,
+    "incorrect imagery": 1,
+    "incorrect header images": 4,
+    "ui/ux issues": 3,
+    "feature requests": 1,
+    "icon design": 1,
+    "old content": 2,
+    "privacy concerns": 1,
+    "highlighting issues": 1,
+    "marking articles as read": 1,
+    "legal and ethical reporting": 1,
+    "outdated information": 1,
+    "translation feature request": 1,
+    "outdated news": 2,
+    "loading issues": 1,
+    "geographical misattribution": 1,
+    "source credibility": 1,
+    "sharing issues": 1,
+    "content sensitivity": 1,
+    "feature request: read articles filter": 1,
+    "bias in ai responses": 2,
+    "inadequate ai responses": 1,
+    "safety and security concerns": 1,
+    "app responsiveness issues": 2,
+    "app crashes": 3,
+    "content source diversity": 3,
+    "content curation and bias": 2,
+    "fact-checking and analysis": 1,
+    "positive feedback on contextual information": 1,
+    "search and reliability issues": 2,
+    "unrelated links": 1,
+    "quote contextualization": 1,
+    "us-centric content": 1,
+    "interface and presentation": 1,
+    "article content mismatch": 2,
+    "carousel functionality issues": 2,
+    "feature request: source data and maps": 1,
+    "feature request: political spectrum view": 1,
+    "account management: username correction": 1,
+    "general positive feedback": 1,
+    "article categorization issues": 1,
+    "inconsistent article content": 1,
+    "linking and highlighting errors": 1,
+    "political spectrum color confusion": 1,
+    "outdated article summaries": 1,
+    "attribution and source crediting": 2,
+    "user interface improvements": 1,
+    "confusion with headline cards vs list": 1,
+    "font readability": 1,
+    "podcast features": 1,
+    "source information": 1,
+    "logo design feedback": 1,
+    "navigation improvements": 1,
+    "content accuracy and clarity": 3,
+    "link and formatting issues": 1,
+    "source attribution": 1,
+    "breaking news notifications": 1,
+    "content relevance and localization": 3,
+    "image and story mismatch": 1,
+    "navigation and user experience": 1,
+    "content freshness": 1,
+    "video content control": 1,
+    "podcast feature awareness": 1,
+    "comment and interaction features": 1,
+    "labeling and bias concerns": 1,
+    "app design and aesthetics": 1,
+    "user interface concerns": 1,
+    "feature request: ios widget": 1,
+    "content labeling concerns": 2,
+    "terminology clarification": 1,
+    "user praise": 2,
+    "content classification issues": 2,
+    "labeling concerns": 2,
+    "misleading images": 4,
+    "access and availability": 1,
+    "feed issues": 2,
+    "misinformation concerns": 1,
+    "inaccurate story timing": 1,
+    "app stability": 1,
+    "location relevance": 2,
+    "audio experience": 1,
+    "user questions and anonymity": 1,
+    "feature appreciation": 1,
+    "formatting issues": 1,
+    "image and headline mismatch": 1,
+    "content clarity": 1,
+    "audio control": 1,
+    "location-based content accuracy": 1,
+    "thumbnail issues": 1,
+    "perceived advertisements": 1,
+    "content mixing": 1,
+    "game/puzzle feature request": 1,
+    "unwanted sports stories": 3,
+    "off-topic content": 3,
+    "story duplication": 2,
+    "incorrect story content": 1,
+    "incorrect links": 1,
+    "navigation and usability": 1,
+    "ui consistency": 1,
+    "content categorization": 2,
+    "podcast date issues": 2,
+    "profile customization": 1,
+    "story labeling": 3,
+    "user interface and navigation": 3,
+    "tutorial and onboarding": 2,
+    "duplicated content": 1,
+    "headline and byline mismatch": 1,
+    "dark mode feature": 1,
+    "design and usability": 2,
+    "specific content following": 1,
+    "podcast control": 1,
+    "article detail expansion": 1,
+    "links section clarity": 1,
+    "headline appropriateness": 2,
+    "explore feed issues": 2,
+    "upgrade process anomalies": 1,
+    "nux preference confusion": 1,
+    "incorrect information in glossary": 1,
+    "inaccurate titles": 1,
+    "incorrect media": 3,
+    "source reliability": 1,
+    "feature request: content importance filter": 1,
+    "grammatical concerns": 1,
+    "unclear content": 1,
+    "ai response issues": 1,
+    "content selection": 1,
+    "user experience": 2,
+    "notification issues": 1,
+    "content source queries": 1,
+    "text formatting issues": 1,
+    "first impressions and onboarding": 1,
+    "political spectrum feature": 1,
+    "article sharing and contextualization": 1,
+    "unique profile features": 1,
+    "headline tense issues": 1,
+    "subheading curiosity": 1,
+    "content filtering issues": 1,
+    "headline and content mismatch": 3,
+    "image selection issues": 3,
+    "text selection feature request": 1,
+    "article timing issues": 2,
+    "user intent and personalization": 2,
+    "audio digest feature": 1,
+    "local information": 1,
+    "testing and development feedback": 1,
+    "headline context": 1,
+    "q&a experience": 1,
+    "user confusion": 2,
+    "visual and content presentation": 3,
+    "headline clarity": 2,
+    "ai functionality": 1,
+    "content source availability": 1,
+    "user interface & navigation": 1
+  },
+  "theme_examples": {
+    "location-based filtering": [
+      "it would be wonderful if somehow i could filter news based on location more precisely...",
+      "a way to narrow down politics to my own country like england/uk."
+    ],
+    "content source control": [
+      "I want to be able to see less content from select news sources that are known to clickbate...",
+      "This is an example of Particle pushing a narrative that is untrue based on sensationalist journalism..."
+    ],
+    "content relevance and updates": [
+      "This is old and should. Not be in the feed!",
+      "This is not news. With no date given, it\u2019s filler content..."
+    ],
+    "user interface and experience": [
+      "I'd love to see even more improvements in line with iOS 26's new UI and features.",
+      "Hi team, I am really loving the Particle settings, the category settings and article summaries! Great stuff, well done! One suggestion - to subdivide work and leisure feeds, there\u2019s news I want to read in the morning to keep up with work, but they don\u2019t need to be in the same feed.",
+      "Hi team, I am an avid particle user, absolutely love its UI, unbiased reporting and information density."
+    ],
+    "language and localization": [
+      "being able to change the language to British english would be a good quality of life update.",
+      "How about adding names to each person? For example, Korean president Lee JaeMyeong..."
+    ],
+    "personalization features": [
+      "i like the system to personalise what i follow however a way to directly follow a certain strain of stories...",
+      "a way to narrow down politics to my own country like england/uk."
+    ],
+    "social sharing": [
+      "Give an option to share the app with contacts!"
+    ],
+    "visual content issues": [
+      "Image doesn't make sense"
+    ],
+    "threaded discussions": [
+      "you should 100% add a threads system under stories like twitter or instagram..."
+    ],
+    "appreciation and positive feedback": [
+      "i absolutely love this app, everything is just great.",
+      "I absolutely adore this app! I've been a big fan of Flipboard for years..."
+    ],
+    "factual errors": [
+      "_Factual errors are visible_ Misleading *Feedback provided on cluster*: Trump Brokers Peace Agreement Between Rwanda and the DRC for June 27 Signing (_Updated 2h ago_)",
+      "_Factual errors are visible_ In the quotes section, this article lists murdoch as the 45th and 47th president of the United States *Feedback provided on cluster*: Trump Declares \u2018MAGA Hates FoxNews\u2019 in Truth Social Tirade Against Murdoch Outlets (_Updated 51m ago_)",
+      "_Factual errors are visible_ It is 17h30 right now, and the WWDC 2025 is in half an hour. Apple has introduced nothing yet.",
+      "_Factual errors are visible_ The app often reports upcoming events as fait accompli.",
+      "_Factual errors are visible_ *Feedback provided on cluster*: Apple Confirms Staggered iPhone 18 Launch With Foldable Debut in 2026"
+    ],
+    "image relevance": [
+      "_Image doesn't make sense_ *Feedback provided on*: <https://particle.news/story/5766186?utm_source=particle|GOP Split Over SALT Cap Brings Reconciliation Bill to Standstill>",
+      "The image accompanying the headline has nothing to do with Copenhagen *Feedback provided on cluster*: Copenhagen Tops EIU Liveability Index 2025, Dethroning Vienna (_Updated 25 min ago_)",
+      "_Image doesn't make sense_ *Feedback provided on cluster*: Hurricanes Shut Out Panthers 3-0 to Snap East Final Losing Streak (_Updated 40m ago_)",
+      "_Image doesn't make sense_ *Feedback provided on cluster*: Musk pledges renewed focus on Tesla, X and xAI ahead of Starship launch (_Updated 5h ago_)",
+      "Odd banner image. Doesn\u2019t seem relevant to the static les"
+    ],
+    "appreciation": [
+      "Amazing app for simplified news. Its a well made app.",
+      "Thank you! This is a wonderful app! Is it possible to bookmark or save some articles?"
+    ],
+    "western bias": [
+      "The answer is very west inclined which shows the west\u2019s vested interested in igniting and keeping separatist movement in India via a drug-violence-political nexus *Feedback provided on question*..."
+    ],
+    "relevance of content": [
+      "Not relevant as I am not in India *Feedback provided on cluster*: MacBook Air M4 Prices Hit Record Lows in Latest Retail Discounts (_Updated 5h ago_)"
+    ],
+    "ui issues on iphone": [
+      "On the iPhone app, the top of the UI goes beyond the top of the screen, and information and UI elements are covered by the notch and battery info."
+    ],
+    "feature request: bookmarking": [
+      "Thank you! This is a wonderful app! Is it possible to bookmark or save some articles?"
+    ],
+    "irrelevant content": [
+      "Tehran has nothing to do with this *Feedback provided on cluster*: Age-Check Technology Cleared for Under-16 Social Media Ban as Diplomats Evacuate Tehran (_Updated 14m ago_)",
+      "What does Trevor Bauer have to do with this story? *Feedback provided on cluster*: Man Charged in Deaths of Baldwin Park Officer and Civilian (_Updated 2h ago_)"
+    ],
+    "spoiler alerts": [
+      "Should be marked as a spoiler considering the time proximity this article was posted to the time of the actual sporting event.",
+      "Spoiler *Feedback provided on cluster*: David Kinne Voted Out as Survivor 48\u2019s Majority Alliance Crumbles (_Updated 2h ago_)"
+    ],
+    "tagging and content relevance": [
+      "Again, why is this tagged \"italy\" in my feed and why would you select italian articles for me\u2026?? Please, change this or give an option to opt-out !!",
+      "France tag and France location label attached to this article are very confusing\u2026 The story has nothing relevant to France\u2026 related posts in french language are not relevant either.",
+      "The article headline referred to fertility rates, yet the primary factors were economic."
+    ],
+    "factual accuracy": [
+      "Factual errors are visible  Don\u2019t think the notification was true, from what I read Gyokeres was planning to look elsewhere after he rejected United but that was false, I opened thinking it was true and read through it, need to fact check these notifications please",
+      "The term \u201cwidespread violence\u201d is inaccurate - \u201cviolence\u201d in LA accounted for .01 % of urban space in LA. Correct this factually incorrect and misleading headline.",
+      "The article headline referred to fertility rates, yet the primary factors were economic. The headline seemed to be misleading and betrayed the reasons for the issue.",
+      "Not fact yet. Important to call out speculations *Feedback provided on cluster*: Apple Renames Operating Systems by Year as \u2018Solarium\u2019 Redesign Preps for WWDC 2025 (_Updated 39m ago_)",
+      "_Factual errors are visible_ Small inaccuracy: Former president trump -> President Trump *Feedback provided on cluster*: CBO: GOP\u2019s \u2018One Big Beautiful Bill\u2019 Would Add $2.4 Trillion to Deficit as Senate Prepares Amendments (_Updated 38 mins ago_)"
+    ],
+    "technical issues": [
+      "It\u2019s not letting me open location settings *Error*: LocalizedError(errorDescription: There was a problem, failureReason: URL cannot be opened: app-settings:, recoverySuggestion: nil, helpAnchor: nil)"
+    ],
+    "content bias": [
+      "It presents the idea that there is widespread violence at Anti-ICE protest as fact, rather than a biased perspective of complex ongoing civil unrest.",
+      "The article sourcing is also dramatically tilted toward right leaning sources. I will cease using the app if I continue to see outright lies and propagandist content here.",
+      "The X section is just Maga guys spouting their BS."
+    ],
+    "misleading headlines": [
+      "The article headline referred to fertility rates, yet the primary factors were economic. The headline seemed to be misleading and betrayed the reasons for the issue.",
+      "The term \u201cwidespread violence\u201d is inaccurate - \u201cviolence\u201d in LA accounted for .01 % of urban space in LA. Correct this factually incorrect and misleading headline.",
+      "The headline is misleading, this is McAfee\u2019s first ever WWE in ring fight",
+      "Lies *Feedback provided on*: <https://particle.news/story/4106694?utm_source=particle|Elon Musk's DOGE Initiative Uncovers Billions in Federal Waste>",
+      "This is terribly misleading. I cannot express how bad of a headline this is."
+    ],
+    "incorrect images": [
+      "Incorrect thumbnail image",
+      "The story\u2019s image is for a different game, one not including either team.",
+      "The main photo used in this story is fake, and the model sourced it from the website deeming it fake.",
+      "Image doesn't make sense",
+      "Image is wrong *Feedback provided on*: <https://particle.news/story/3322640|Jimmy Butler's Return Powers Heat to Victory Over 76ers>"
+    ],
+    "authentication errors": [
+      "Hello! I just tapped in (via notification opening the app) and I wasn\u2019t able to load in anything - everything was in error/blank state. I hooked up a proxy and see that when i try refreshing I\u2019m getting 401 errors /auth/refresh_token token is expired."
+    ],
+    "language preferences": [
+      "I understand you select the articles of each story based on my location. But please, allow me to select a language. I don\u2019t speak German.",
+      "I would love to have my main language German as default app language. So every article is in my main language."
+    ],
+    "data usage concerns": [
+      "It would be nice to have a text only mode because my device has slow data and data caps."
+    ],
+    "outdated related articles": [
+      "Related Articles are over a year old *Feedback provided on cluster*: Lewandowski Refuses to Play for Poland Until Coach Is Replaced (_Updated 3h ago_)"
+    ],
+    "bias in content": [
+      "This reply is biased and pro Israel *Feedback provided on question*: Request: Why is Israel committing crimes against humanity?"
+    ],
+    "rumor vs. official information": [
+      "\u201ciOS 26\u201d is just the rumor - not official. *Feedback provided on cluster*: Apple Debuts iOS 26 Redesign, AI Features and Games App at WWDC 2025 (_Updated 49m ago_)"
+    ],
+    "irrelevant images": [
+      "Image has nothing to do with the article *Feedback provided on cluster*: National Guard Remains in Los Angeles as Protests Against ICE Raids Continue (_Updated 5h ago_)"
+    ],
+    "language support": [
+      "Please add more Languages like German \u2764\ufe0f\ud83d\udc4d\ud83c\udffb",
+      "Hi Would it be possible to add a translate option to the \u00ab\u00a0rewrite titles\u00a0\u00bb function? I\u2019d like to have the titles translated to French Thanks",
+      "Hello, I look forward to Japanese version!"
+    ],
+    "location-based article accuracy": [
+      "The location based articles are funky for Washington State. Most times when they say Washington they mean Washington DC not the state. Please update your algorithm to adjust for this nuance."
+    ],
+    "content personalization issues": [
+      "Hi This app was too good to be true. In the past week the algorithm (if there is one anymore) started feeding me stories that I had selected \u201cLess\u201d - a lot. Then I did the \u201cTune your feed\u201d and I got 10 stories that were LITERALLY ones I selected \u201cLess\u201d for - all 10. I don\u2019t care about India, android or video games but I sure do see a lot of those stories! I guess you\u2019re going pained soon. I tried resetting my free also. Thanks\u2026",
+      "6 of my top 10 stories are about the NFL. I keep getting bombarded with sports, and have turned the topics down.",
+      "The local stories are all from LA and I don\u2019t know where to change the setting to my location.",
+      "The app just shows me whatever it wants. I have tried to tell it I want to see content related to photography with no luck.",
+      "I just found the content setting tab - I found that my content preferences were not updating fast enough by selecting articles one by one."
+    ],
+    "app icon customization": [
+      "Can we get some different App Icon options?"
+    ],
+    "negative news content": [
+      "Why is all the news you push so negative. I love the app but need to stop using it because it just makes me depressed every morning."
+    ],
+    "customizable default news view": [
+      "It would be nice if you could ad a setting so you can make one view of the news that you prefer too your default one"
+    ],
+    "language support - german": [
+      "The App in German would be very nice."
+    ],
+    "language support - chinese": [
+      "\u8bf7\u8bbe\u8ba1\u4e00\u4e0b\u4e2d\u6587\u8bed\u8a00\u7684\u754c\u9762\u3002 Please design the interface in Chinese.",
+      "Need Chinese languages\uff01please"
+    ],
+    "alternative login options": [
+      "Please \u201cLog-In with Google\u201d or any other method than Apple."
+    ],
+    "headline accuracy": [
+      "This is a bad headline. Pedro Pascal\u2019s casting was announced 15 months ago. The news here is that David Tennant was also considered for the role. *Feedback provided on cluster*: Pedro Pascal Cast as Reed Richards in Marvel's 'The Fantastic Four: First Steps' (_Updated 6h ago_)"
+    ],
+    "general satisfaction": [
+      "Excellent app. Keep up the great job "
+    ],
+    "political spectrum analysis": [
+      "Personally, I love the political spectrum analysis. However, it is not clear to me when it does appear. Can it be turned on for all articles or by request?"
+    ],
+    "publication date filter": [
+      "I would like to be able to filter by the date of publication. Trending / latest news is key"
+    ],
+    "tagging errors": [
+      "This tennis story was tagged with Masters Tournament (golf)"
+    ],
+    "outdated articles": [
+      "this dates from more than a month ago and appears as if it was published now"
+    ],
+    "source coverage": [
+      "I feel like a lot of news is missing from this app. There must be sources gaps or something."
+    ],
+    "customizable ai summaries": [
+      "Would be could if you could add a feature where you could describe how you want your news summarized for you by generative ai instead of the presets like explain like I\u2019m 5.",
+      "Could you introduce the ability to change the summary style within the pane of an individual article?"
+    ],
+    "spoiler warnings": [
+      "This should have a spoiler warning"
+    ],
+    "content accuracy": [
+      "This story has drawn in 70 wildly different articles that are barely tangentially related - the summary implies that the budget is being delayed and the law enforcement action is somehow also part of that. Not accurate.",
+      "The above is alleged and only by the US without any confirmation by either parties involved",
+      "Factual errors are visible",
+      "Factual errors are visible",
+      "Harmful or sensitive content"
+    ],
+    "spoilers": [
+      "I thought we were getting rid of spoilers! This is a huge spoiler!",
+      "Spoilers! *Feedback provided on cluster*: \u2018The Last of Us\u2019 Season 2 Episode 4 Introduces Isaac and Teases Major Infected Ambush",
+      "Should be marked as spoiler  *Feedback provided on cluster*: The Last of Us Episode 4 Introduces Major WLF Leader and Infected Ambush"
+    ],
+    "text-to-speech (tts) issues": [
+      "Your tts model or other one behind constantly referring the President Trump as \u201cformer\u201d President Trump. Please fix it",
+      "Would love an option to customise the voice that reads out the summary. The American one can\u2019t quite seem to pronounce British city names and is quite annoying so a British voice would be nice!"
+    ],
+    "image mismatch": [
+      "Interesting story, and the AI summaries were on point BUT the images that got pulled in to accompany the story were incorrect.",
+      "_Image doesn't make sense_ *Feedback provided on cluster*: AfD Files Lawsuit Over Extremist Classification as Germany Prepares for New Government",
+      "Image doesn\u2019t match article *Feedback provided on cluster*: Oscar Piastri Wins Miami Grand Prix, Leads McLaren 1-2 Finish",
+      "The picture doesn\u2019t match the headline",
+      "Feels like an unrelated image"
+    ],
+    "content diversity": [
+      "Would love an option to customise the voice that reads out the summary. The American one can\u2019t quite seem to pronounce British city names and is quite annoying so a British voice would be nice! Also, room for more articles from the UK about the UK? I seem to get mostly American stories.",
+      "I would like to request if you can add more news sources for India, including: 1. Times of India 2. Indian Express"
+    ],
+    "ai summary quality": [
+      "Good response, but I wish I had a more extrapolated answer."
+    ],
+    "political spectrum bias": [
+      "Hi, I believe a simple 1 dimensional political spectrum is not entirely informative to a reader."
+    ],
+    "incorrect information": [
+      "First summary line implies it returned in 1972 rather than 2025",
+      "Lists incorrect date for event.",
+      "Donda did not die in 2007",
+      "This is incorrect he jokingly suggested that he would use it on himself.",
+      "The articles may not have reported it but I watched the speech and he did suggest it, although it may have been a joke."
+    ],
+    "political alignment colors": [
+      "In Canada you might want to switch the political alignment colours."
+    ],
+    "capitalization errors": [
+      "Up should not be capitalised"
+    ],
+    "translation support": [
+      "Particle is an excellent app! As a non-native English speaker, I have a suggestion that could help users who are not fluent in English. Would it be possible to support system translation features for the titles and overviews within the app?"
+    ],
+    "content availability": [
+      "U can listen to it I just looked *Feedback provided on question*: Request: Can you listen to it on Spotify right now Response: No, it's been removed. Cluster: Kanye West\u2019s 'Donda 2' Removed Hours After Surprise Streaming Release",
+      "Support for more news articles"
+    ],
+    "game progress issues": [
+      "It says I completed the puzzle when I didn\u2019t play at all. I was shown the answers.  *Feedback provided on*: \ud83e\udde9 Game: Need for Speed and Skill 5/2/2025 01:25 \ud83e\udde9 Game: Need for Speed and Skill 5/2/2025 01:25"
+    ],
+    "news source diversity": [
+      "Please include more German news sources like Tagesschau. Many German news articles have mostly coverage from Stern and that doesn\u2019t give a balanced outlook on the news."
+    ],
+    "mismatched images": [
+      "The photo does not match the headline, wrong team",
+      "The image in this article has nothing to do with the article."
+    ],
+    "incorrect article timing": [
+      "A perfect example of how your bot is mistaking a new article into the world for news. This news is more than a week old. It\u2019s NOT 6 hours old!"
+    ],
+    "geographical inaccuracies": [
+      "It\u2019s released worldwide, not specifically India"
+    ],
+    "distracting advertisements": [
+      "Please remove the promo for your Share builder or at least take away the motion. All it makes me do is push the screen up as quickly as possible so I can start reading in peace."
+    ],
+    "feature request: table and markdown support": [
+      "Please add table creation support and markdown preview for text being generated for the questions"
+    ],
+    "content relevance and clustering": [
+      "This article is part of other news stories in the timeline. I think it could be clubbed with others. *Feedback provided on cluster*: IAF Corporal Tage Hailyang Among 26 Killed in Kashmir's Deadliest Attack Since 2019 (_Updated 3 hr ago_)",
+      "Downvoted *Feedback provided on*: What will be the impacts of this policy on the FAFSA : FAFSA processing may face delays and disruptions. Cluster: <https://particle.news/story/4384119?utm_source=particle|Trump Signs Executive Order to Begin Dismantling Department of Education> \u2022 Updated 1mo ago"
+    ],
+    "follow story feature": [
+      "Would love to be able to follow a story itself and not just elements, people, places, the story is comprised of. Maybe a follow button in the top right corner or something"
+    ],
+    "image accuracy": [
+      "Your news is about IPL (Indian); but you have used image from PSL (Pakistani).  Doesn't make a difference to me. But it would better your system."
+    ],
+    "historical context": [
+      "Thanks for the history lesson *Feedback provided on question*: Request: Historically, has a president who\u2019s approval ratings have dropped to this level at this point in his term, able to win relection?"
+    ],
+    "customization of daily digest": [
+      "I really love the feature daily digest, but for example 12 pm on a Saturday isn\u2019t the midday for me and getting the midday digest at that time isn\u2019t really beneficial for me. I would love it if I could change the time for the digests and/or make them completely custom. Thanks"
+    ],
+    "content relevance": [
+      "Not that interested in women\u2019s football  *Feedback provided on cluster*: Barcelona and Chelsea Prepare for Historic Third Consecutive Women's Champions League Semi-Final Clash (_Updated 4 hr ago_)",
+      "Not health related *Feedback provided on cluster*: Golden Bachelor Gerry Turner Announces New Relationship After High-Profile Divorce (_Updated 32m ago_)",
+      "Not related to London *Feedback provided on cluster*: Sudan\u2019s RSF Declares Rival Government as War Devastates Darfur (_Updated 5 hr ago_)",
+      "I get fairly annoyed with the low-importance stories in my feed.",
+      "Less like this doesn\u2019t tend to work as it\u2019s not the topics I don\u2019t like, it\u2019s the unimportant nature of the content."
+    ],
+    "missing information": [
+      "Nothing in the overview or quotes or links points to any information about the shooters beliefs, ideas, or motives, which is important information in a story like this.  *Feedback provided on cluster*: FSU Shooting Leaves Two Dead, Six Injured; Investigation Continues (_Updated 2h ago_)"
+    ],
+    "selection issues": [
+      "Unable to select Philadelphia union team, only philadelphia is able to be selected *Feedback provided on cluster*: Philadelphia Union Dominates D.C. United with 4-0 Victory (_Updated 7mo ago_)"
+    ],
+    "inappropriate images": [
+      "_Image doesn't make sense_ *Feedback provided on cluster*: Lyrid Meteor Shower to Peak Early Morning April 22 (_Updated 1 hr ago_)"
+    ],
+    "harmful or sensitive content": [
+      "_Harmful or sensitive content_ *Feedback provided on cluster*: Lyrid Meteor Shower to Peak Early Morning April 22 (_Updated 1 hr ago_)",
+      "_Harmful or sensitive content_ *Feedback provided on cluster*: Yellowjackets Nears Season 3 Finale with Van's Shocking Death and Major Revelations",
+      "Harmful or sensitive content *Feedback provided on*: <https://particle.news/story/3176395|Increased Chinese Military Activity Near Taiwan Raises Tensions>"
+    ],
+    "game hints and answers": [
+      "Hints came too early, but then really helped me get there. Except 6 across where the hints all seemed the same.  *Feedback provided on*: \ud83e\udde9 Game: Hycean Hoops 4/19/2025 04:12 \ud83e\udde9 Game: Hycean Hoops 4/19/2025 04:12",
+      "I won it today! Please reveal the answers and allow to play previous days crosswords. *Feedback provided on*: \ud83e\udde9 Game: Hycean Hoops 19/4/2025 04:12 \ud83e\udde9 Game: Hycean Hoops 19/4/2025 04:12"
+    ],
+    "user interface design": [
+      "Feedback for Particle App:  I really enjoy using Particle! One of my favorite things about the app is how it presents article information in an easy-to-read format. I especially appreciate the different reading options like the \u201c5 Ws\u201d and \u201cExplain Like I\u2019m 5\u201d \u2014 they make consuming news more approachable and engaging.  However, the user interface could use some improvement. It can feel a bit overwhelming at times, as the app tends to bombard you with a lot of information all at once. A cleaner, more organized, or minimalistic design would definitely take the experience to a 5/5 for me.  Overall, I genuinely enjoy the app and can see myself using it more in the future!"
+    ],
+    "media viewing experience": [
+      "Love the app. My only problem is that when I click on pictures and videos I want to be able to turn my phone sideways to make it fullscreen"
+    ],
+    "voice and language options": [
+      "A British Voice for story reading would be nice, also more asian news, potentially even translating non english news?"
+    ],
+    "content personalization": [
+      "I have told the App 6 times I am not interested in this, I guess it overlaps with too many of my interest categories  *Feedback provided on cluster*: Skullcandy Launches Method 360 ANC Earbuds with Bose-Tuned Audio (_Updated 2h ago_)",
+      "Content preferences don\u2019t appear reflected in my feed. I continue to get sports content after restating the app, and phone entirely despite down voting the top and sub categories to don\u2019t want."
+    ],
+    "content quality": [
+      "Actually great answer. Links articles/other pages, gives an accurate understanding of the situation and is very well written. *Feedback provided on question*: Request: Is Max actually considering Aston Martin? If so, would he be replacing Stroll or kicking out Alonso? Response: Verstappen might consider Aston Martin, likely replacing Alonso, not Stroll. Cluster: Red Bull Faces Crisis as Verstappen's Future Hangs in the Balance (_Updated 2 hrs ago_)",
+      "Quotes were extensive and consistently high quality here. Really added a depth and dimension to the story.",
+      "Bad cluster, new advice column to disallow?"
+    ],
+    "outdated sources": [
+      "The sources for this response are too old for it to be accurate *Feedback provided on question*: Request: Is Ukraine running out of air defense missiles?"
+    ],
+    "spoilers in headlines": [
+      "You really shouldn\u2019t put spoilers in the headline like this *Feedback provided on cluster*: Yellowjackets Nears Season 3 Finale with Van's Shocking Death and Major Revelations"
+    ],
+    "performance issues": [
+      "There\u2019s also a performance issue when switching back to the app. It hangs for a few seconds before allowing input again.",
+      "Heating issues within few seconds of usage on my iPhone 12 iOS 17.",
+      "Can\u2019t tell if it\u2019s the scrolling performance that\u2019s causing it, but the enlarge animation when going through explore tab is causing some dizziness after a few and feels unnecessary."
+    ],
+    "headline rewriting issues": [
+      "There\u2019s an issue where some articles\u2019 headlines don\u2019t get rewritten properly. If you contact me I can describe it much better."
+    ],
+    "positive feedback and recommendations": [
+      "Hi! I just wanted to say that I love this app. I\u2019m a software engineer and had an idea for something similar - a tailored AI feed of reputable, verified articles with the ability to track specific entities."
+    ],
+    "language availability": [
+      "Would be nice to have more languages available in the translate tab. Looking for Japanese and Portuguese personally."
+    ],
+    "clarification on sports reporting": [
+      "It wasn\u2019t his first outing for the Red Sox. Only his first since the extension *Feedback provided on*: Garrett Crochet Shines in Red Sox Debut with Eight Scoreless Innings"
+    ],
+    "headline misleading": [
+      "Headline/AI makes it sound like TESLA is facing terror charges (it\u2019s actually people attacking Tesla who are facing charges, not Tesla) *Feedback provided on cluster*: Tesla Faces Domestic Terrorism Charges and Financial Crisis (_Updated 23m ago_)"
+    ],
+    "old news": [
+      "Old news! *Feedback provided on cluster*: Robert Downey Jr. to Play Doctor Doom in 'Avengers: Doomsday,' Directed by Russo Brothers (_Updated 2h ago_)"
+    ],
+    "content preferences": [
+      "Not liking this more mixed home experience. Like the firm categories much more.",
+      "Would love to be able to set a bias for positive stories, but still include occasional negative stories.",
+      "I find myself wanting to swipe left/right on stories in the main feed. Left = don\u2019t want to read / don\u2019t care about this topic Right = save for later / care about this topic",
+      "Content preference screen is overwhelming and often has redundant sections.",
+      "I modified content preferences by +ing basketball, but now I get a whole whole lot of soccer news I don\u2019t care about."
+    ],
+    "content filtering": [
+      "No zionists in my feed!!!! *Feedback provided on cluster*: Selena Gomez and Benny Blanco Preview New Album at Surprise 'Spring Breakers' Screening (_Updated 7h ago_)",
+      "Why on earth are there options to follow a person or always see stories about them but there\u2019s not the opposite? There are some prominent people that I NEVER want to see stories about.",
+      "It really shouldn\u2019t be this hard to indicate that I have absolutely no interest in sports and don\u2019t want to see any news about sports.",
+      "It seems like downvoting sports doesn\u2019t really help to cleanse my feed from it."
+    ],
+    "publisher suggestions": [
+      "How do I suggest a news publisher for inclusion?"
+    ],
+    "positive feedback": [
+      "Love it!",
+      "This is the absolute greatest app of all time. You nailed the user experience across the board.",
+      "Banger",
+      "This app is so good. That\u2019s my only feedback. I love it.",
+      "This is great"
+    ],
+    "image errors": [
+      "the image is of ipads not macbook airs",
+      "_Image doesn't make sense_ *Feedback provided on cluster*: Detroit Pistons Secure Seventh Consecutive Win with Victory Over Clippers"
+    ],
+    "spelling mistakes": [
+      "In article summaries about Ukraine, Zelenskyy\u2019s name is consistently misspelled as \u201cSelenskij\u201d, which is both bizarre and annoying."
+    ],
+    "link errors": [
+      "Hey there! I noticed the link in the fourth bullet point points to The Criterion Collection instead of Criterion Games."
+    ],
+    "elon musk and doge": [
+      "Why do people believe that a billionaire who has only ever cared about himself is suddenly tirelessly working to improve conditions for the working class?",
+      "How does Musk personally benefit from DOGE's decisions?",
+      "What authority does Elon Musk legally have within DOGE?"
+    ],
+    "translation and language support": [
+      "Please add Japanese in translation language selection",
+      "It\u2019s in German, not English"
+    ],
+    "article content and presentation": [
+      "The small print under quotes, usually the first two, is very light and thus hard to read, consistently.",
+      "Headline should have said it\u2019s an over the air update instead of burying it in the article like clickbaity news outlets did.",
+      "Missed [ in third bullet point starting with Hyderabad"
+    ],
+    "article completeness and detail": [
+      "Searching a single series of articles does not provide full details.",
+      "The articles do not provide specific numbers."
+    ],
+    "feedback on specific stories": [
+      "This is a loaded question and unrelated to the story.",
+      "This answer is incorrect per a statement made by Donald J Trump designating Elon Musk as the official head of DOGE."
+    ],
+    "downvoted feedback": [
+      "_Downvoted_ *Feedback provided on*: Why are there so many plane problems recently?",
+      "_Downvoted_ *Feedback provided on*: Why did HP decide to acquire Humane despite the AI Pin's failure?",
+      "_Downvoted_ *Feedback provided on*: Why are people ignoring the goals of DOGE like cutting government waste?"
+    ],
+    "doge and government waste": [
+      "_Downvoted_ *Feedback provided on*: Why are people ignoring the goals of DOGE like cutting government waste?",
+      "_Downvoted_ *Feedback provided on*: Why are people ignoring the goals of DOGE like cutting government waste?",
+      "_Downvoted_ *Feedback provided on*: Why are people ignoring the goals of DOGE like cutting government waste?"
+    ],
+    "misclassification of news": [
+      "This appeared at the top of my feed under a collection titled \u201cChampions League drama\u201d but is not related to the Champions League."
+    ],
+    "legal and privacy concerns": [
+      "_Downvoted_ *Feedback provided on*: What are the legal arguments against DOGE's access to sensitive data?"
+    ],
+    "hp acquisition of humane": [
+      "_Downvoted_ *Feedback provided on*: Why did HP decide to acquire Humane despite the AI Pin's failure?"
+    ],
+    "probationary employee layoffs": [
+      "_Downvoted_ *Feedback provided on*: Why were probationary employees targeted for layoffs?"
+    ],
+    "international aid programs": [
+      "_Downvoted_ *Feedback provided on*: Do other countries have a program like USAID?"
+    ],
+    "inappropriate content highlighting": [
+      "\u201cChild\u201d is randomly highlighted as a mappable term for some reason, doesn\u2019t really make sense"
+    ],
+    "downvoted content": [
+      "_Downvoted_ *Feedback provided on*: Give me Luigi\u2019s website : http://www.luigimangioneinfo.com",
+      "_Downvoted_ *Feedback provided on*: Why was Merino chosen as a striker despite being a midfielder?",
+      "_Downvoted_ *Feedback provided on*: The same more about the in-house modem: The iPhone SE 4 will debut Apple's in-house 5G modem.",
+      "_Downvoted_ *Feedback provided on*: What was Adams under suit for?"
+    ],
+    "political opinions": [
+      "Opinion, more than a question *Feedback provided on*: No other country supports everything the Trump administration has been doing."
+    ],
+    "repetitive content": [
+      "I have seen pretty much this exact story every day I open Particle since the DeepSeek release."
+    ],
+    "downvotes": [
+      "_Downvoted_ *Feedback provided on*: Rest in peace penny \ud83d\ude4f\ud83c\udffd: Trump ends penny production.",
+      "_Downvoted_ *Feedback provided on*: What inspired the PlayStation controller stage design?",
+      "_Downvoted_ *Feedback provided on*: Could TikTok be given away for free to an American citizen",
+      "_Downvoted_ *Feedback provided on*: Which companies has musk built rather than acquired?"
+    ],
+    "image issues": [
+      "_Image doesn't make sense_ *Feedback provided on*: <https://particle.news/story/4051808?utm_source=particle|Speaker Mike Johnson Faces Delays in Advancing GOP Budget and Trump's Legislative Agenda>",
+      "Wrong photo, confusing",
+      "Image doesn't make sense",
+      "Image is of Austin tice, a different missing American, not Travis tinnerman"
+    ],
+    "discrimination and legal risks": [
+      "The order could increase discrimination and legal risks.",
+      "The order could increase discrimination and legal risks."
+    ],
+    "inexperience in governance": [
+      "They lack experience in governance."
+    ],
+    "stopping musk's influence": [
+      "Legal, legislative, and public actions could stop Musk."
+    ],
+    "positive ai feature experience": [
+      "Great form of answering. First time trying the feature and didn\u2019t thought the Ai would answer. Great app!!"
+    ],
+    "inline link errors": [
+      "The \u201cAmerica First\u201d inline link brings up the bank where it\u2019s actually talking about trumps strategy."
+    ],
+    "trump's gaza plan criticism": [
+      "Trump is a genius! Explain why his colonial aspirations are good for America.",
+      "Explain why the forced relocation of Gaza\u2019s residents is justified and will produce a brighter economic future for Israel and the future residents of Gaza.",
+      "What does Trump stand to gain from this"
+    ],
+    "feature request: customization": [
+      "I\u2019d be great if we can not only pick the preferred overview options but also reorder the available options."
+    ],
+    "content organization": [
+      "Getting all the quotes in one place is so useful"
+    ],
+    "link issues": [
+      "Links too"
+    ],
+    "user engagement": [
+      "__Downvoted__ *Feedback provided on*: What are the potential risks of shifting disaster response to states?: States may lack resources and expertise.",
+      "__Downvoted__ *Feedback provided on*: What are the potential risks of shifting disaster response to states?: States may lack resources and expertise.",
+      "Thanks for the shoutout, <@U04MT3L2NER>! I love putting it together. I just took a look at the stats for the first 3 newsletters, and we're getting 47-50% open rates + 4-5% click rates, which is pretty good."
+    ],
+    "biased content": [
+      "Biased. *Feedback provided on*: <https://particle.news/story/3875757?utm_source=particle|Biden Issues Preemptive Pardons for Fauci, Milley, and Jan. 6 Committee Members>"
+    ],
+    "navigation issues": [
+      "Sometime when I click on a push notification from an author that I follow. The app opens to the main Home Screen, but does not navigate to the article referenced in the push notification.",
+      "Park also reported an issue where he went in to the \u201cN more stories\u201d list view and the back button would not work."
+    ],
+    "incorrect imagery": [
+      "Also, this a photograph of the pope. *Feedback provided on*: <https://particle.news/story/3873448?utm_source=particle|Donald Trump Sworn in as 47th U.S. President in Historic Second Term>"
+    ],
+    "incorrect header images": [
+      "Using the wrong header image *Feedback provided on*: <https://particle.news/story/3787873?utm_source=particle|Cadillac Announces Plans for U.S.-Built Formula 1 Engines by 2028>",
+      "The picture is not related at all *Feedback provided on*: <https://particle.news/story/3779861?utm_source=particle|Unprecedented Los Angeles Wildfires Force Mass Evacuations and Cause Widespread Destruction>",
+      "Wrong image used. This photo is of the previous record-holder who has since passed. *Feedback provided on*: <https://particle.news/story/3761407?utm_source=particle|Brazilian Nun Inah Lucas Becomes World\u2019s Oldest Living Person at 116>"
+    ],
+    "ui/ux issues": [
+      "Slight UI bug when switching to opposing views the text overlaps with the dropdowns for articles links and quotes *Feedback provided on*: <https://particle.news/story/3777807?utm_source=particle|ExxonMobil Warns of Lower Q4 Profits Due to Weak Oil Prices and Refining Margins>",
+      "Hi! I noticed a small rendering artifact when tapping on a story in the main feed.",
+      "the font for the \u2018explain like I am five\u2019 mixing with the more professional body text font on screen makes the app look less polished"
+    ],
+    "feature requests": [
+      "Have you thought about allowing one or two follow ups in a question? I have a relevant few extra questions stemming from this initial questions."
+    ],
+    "icon design": [
+      "The middle sailing wheel thing is not intuitive that it means \u201cdiscover\u201d just fyi."
+    ],
+    "old content": [
+      "Isn't this article many months old?",
+      "Particle keeps picking up this story. It\u2019s really old at this point but keeps coming up."
+    ],
+    "privacy concerns": [
+      "I noticed that when I ask a question about an article that this question becomes public with my username. I was not notified that this would happen."
+    ],
+    "highlighting issues": [
+      "This one seems like \u201cIndian Ocean\u201d should be the highlighted word, because if \u201cIndian\u201d is the highlighted word it implies India as the subject rather than Indonesia."
+    ],
+    "marking articles as read": [
+      "Would love to mark things as read if I scroll past them. Might not make sense as a default option but having the toggle in settings would be great."
+    ],
+    "legal and ethical reporting": [
+      "You failed to mention that it was all a crime. Not mentioning that normalizes extreme violence that is against international law."
+    ],
+    "outdated information": [
+      "COP29 is over; this cluster says \u201cjust now\u201d so this makes me distrust the rest of the summary"
+    ],
+    "translation feature request": [
+      "Please kindly add Japanese into translate overview! yusukea@protonmail.com"
+    ],
+    "outdated news": [
+      "Story from 3mo ago at the top of my feed, I don\u2019t want to see old news",
+      "Seems like the answer here is a bit out of date."
+    ],
+    "loading issues": [
+      "Not loading cml"
+    ],
+    "geographical misattribution": [
+      "Your system incorrectly attributed the mentioned \u2018Washington\u2019 as Washington State. It\u2019s supposed to be Washington DC."
+    ],
+    "source credibility": [
+      "In many articles with only three sources cited, I will not recognize any of them. That\u2019s all right, but it would be really nice to have you guys rank them in terms of their reputation within their industry."
+    ],
+    "sharing issues": [
+      "For whatever reason, when I share stories from Particle to Instapaper, they do not save to Instapaper."
+    ],
+    "content sensitivity": [
+      "Harmful or sensitive content *Feedback provided on*: <https://particle.news/story/3328789|Perplexity Launches AI-Driven Shopping Experience in the U.S.>"
+    ],
+    "feature request: read articles filter": [
+      "My favorite news app! One wish: a filter to filter out already read would be super helpful - thanks fir considering"
+    ],
+    "bias in ai responses": [
+      "It would be great if the AI could not just parrot a bunch of aligned article views that are clearly biased.",
+      "Weighs social factors instead of responding only with factual information"
+    ],
+    "inadequate ai responses": [
+      "This was way too mild, I asked a question and expected an answer."
+    ],
+    "safety and security concerns": [
+      "Will question safety take care of this type of pen-testing?"
+    ],
+    "app responsiveness issues": [
+      "The page with questions and answers became very unresponsive: when you enter a question page you cannot scroll down, it usually gets you out of the page, back to the main article UI.",
+      "It\u2019s unable to open billet points view"
+    ],
+    "app crashes": [
+      "app crashes when going to content preferences menu",
+      "After setting my initial content preferences the app force closed.",
+      "It\u2019s seems like the addition of German sources now create articles that make crashes without any trend or significance."
+    ],
+    "content source diversity": [
+      "There are many non-Western local and excellent news publisher there as well. They should be included in this app\u2019s parsing of Articles.",
+      "I would like to see news from NYT, Atlantic and the New Yorker.",
+      "I can I pick where my news is curated from?"
+    ],
+    "content curation and bias": [
+      "It feels like if there is a slanted propaganda piece, shared by multiple right wing news outlets, it will be amplified.",
+      "I didn\u2019t feel like Particle adequately segments traditional media outlets from \u201cnew\u201d media outlets."
+    ],
+    "fact-checking and analysis": [
+      "I think we should be going a step further and actually fact checking and truth seeking and delivering that analysis to the masses."
+    ],
+    "positive feedback on contextual information": [
+      "Extra extraordinary answer! Appreciate the side sources additional context."
+    ],
+    "search and reliability issues": [
+      "there does seem to be a reliability issue with questions",
+      "I asked the question, \u201c what is the install base of Apple Watch?\u201d. I kept seeing the progress indicator with messages such as searching the web for sometime and after that, it stopped and showed me just question editor with no answers and this happened repeatedly."
+    ],
+    "unrelated links": [
+      "The links section has an apparently unrelated link to a book trilogy on Amazon UK."
+    ],
+    "quote contextualization": [
+      "I should be able to click on a quote and go to the article to see the context \u2014 how can I trust the AI correctly excerpted it or learn more about the context of the quote otherwise?"
+    ],
+    "us-centric content": [
+      "I love the idea of Particle but it very US centric and so it's hard to get a sense of how it would work out in the wider world."
+    ],
+    "interface and presentation": [
+      "Also to default big tile presentation is off putting - you do a minutes worth of scrolling before finding anything of interest."
+    ],
+    "article content mismatch": [
+      "The headline and bullet points are about the Texas execution, but all of the source articles and photos are about Kathy Griffin\u2019s divorce.",
+      "The title is in German while the summary is in English. I assume that wasn\u2019t intended."
+    ],
+    "carousel functionality issues": [
+      "Just an update. The carousel does not work on iPad but does still work on iPhone 15 pro version 17 point something.",
+      "Carousel seems worse for me now. I had no issues ever. Now it won\u2019t even pull over the first article in line."
+    ],
+    "feature request: source data and maps": [
+      "It would be cool if beyond article summarization, Particle could go to source data and do things like this."
+    ],
+    "feature request: political spectrum view": [
+      "When I click on the three dots on the top right hand side of the page I fonts see any option to view the publisher political spectrum."
+    ],
+    "account management: username correction": [
+      "I mistyped username but no way to correct this. Please add this feature as soon as possible."
+    ],
+    "general positive feedback": [
+      "Thank for creating Particle. It has become my goto app for news."
+    ],
+    "article categorization issues": [
+      "Some articles miscategorized. For example, there\u2019s one about Harris\u2019s support from Latino voters in category about the Middle East."
+    ],
+    "inconsistent article content": [
+      "The Cowboys won over the Steelers, not the Steelers over the Cowboys. I had 2 articles on this game and each told me a different team won."
+    ],
+    "linking and highlighting errors": [
+      "Many news tiles have randomly highlighted sections of words that end up linking to topics that aren\u2019t exactly related to the original story."
+    ],
+    "political spectrum color confusion": [
+      "The Political Spectrum colours are wrong for UK users. Blue is right wing, red is left in the UK - the opposite to the US."
+    ],
+    "outdated article summaries": [
+      "This is inaccurate or at least out of date. Likely it is taking an article that is continuously updated, but not updating the summary."
+    ],
+    "attribution and source crediting": [
+      "It would have been for this story to have included The Guardian\u2019s original interview article and to have credited The Guardian in the headline.",
+      "It would have been good to have included the original CNN interview in which the senator made these comments and to have mentioned CNN."
+    ],
+    "user interface improvements": [
+      "I love the new update with the carousel! Keep up the great work!"
+    ],
+    "confusion with headline cards vs list": [
+      "When do I headline cards vs list? I am confused."
+    ],
+    "font readability": [
+      "It would be better if the font weight of the headlines in dense tiles view could be less bold."
+    ],
+    "podcast features": [
+      "I hope I can listen to podcasts in the background and auto-play the next episode."
+    ],
+    "source information": [
+      "Would love to have some kind of source here."
+    ],
+    "logo design feedback": [
+      "The logo is only internal and not available to the public yet (no one has seen). Would be good if it was written as '\u2026Concerns Over New Proposed Logo Design'"
+    ],
+    "navigation improvements": [
+      "It would be great if there was an easy way to get to the next article from here!"
+    ],
+    "content accuracy and clarity": [
+      "The word 'India' should have been somewhere in the headline, subheadline and/or summary.",
+      "Conflicting answer as it mentions a \u20ac4.3 billion payout as the highest amount, which is actually less than $14 billion.",
+      "It should likely say what the last sentence of the response was that it\u2019s likely 50-50 tie or extremely close."
+    ],
+    "link and formatting issues": [
+      "Only the US part of USPS was made into a link."
+    ],
+    "source attribution": [
+      "You should strive to more prominently credit where the original interview happened."
+    ],
+    "breaking news notifications": [
+      "It would be great to have breaking news notifications."
+    ],
+    "content relevance and localization": [
+      "I'm in the UK and am seeing far too many articles about American News compared to British news.",
+      "I selected no sports topics and yet I'm getting quite a few sports articles.",
+      "Not local"
+    ],
+    "image and story mismatch": [
+      "The image is of a player not referenced in the summary and not on the winning team"
+    ],
+    "navigation and user experience": [
+      "The highlight feature in the app is very cool. However, it becomes finicky after clicking on a news story."
+    ],
+    "content freshness": [
+      "I\u2019d say right now, the news is a little stale. I\u2019ve seen the same 4/5 topics several days in a row."
+    ],
+    "video content control": [
+      "Under explore videos it would be great to have some control of what videos appear here and somehow linked to the topics you like."
+    ],
+    "podcast feature awareness": [
+      "More intro to the podcast feature in onboarding workflow would be appreciated."
+    ],
+    "comment and interaction features": [
+      "For comments, I noticed there\u2019s very little critical mass of users to fill in comments."
+    ],
+    "labeling and bias concerns": [
+      "The one-sided label is totally inappropriate on this story"
+    ],
+    "app design and aesthetics": [
+      "I am a news junkie and I love what you have done here. It\u2019s beautiful. It intuitive."
+    ],
+    "user interface concerns": [
+      "The swipe trigger point is too high. I have to swipe all the way to the right or left to change the slides."
+    ],
+    "feature request: ios widget": [
+      "I would love an iOS widget powered by Particle. It would be a great way to view interesting stories from the Home Screen."
+    ],
+    "content labeling concerns": [
+      "The one-sided label doesn\u2019t seem appropriate here.",
+      "The one-sided label shouldn\u2019t be applied to stories about soccer."
+    ],
+    "terminology clarification": [
+      "Why do you call 'straight man' 'cis man'?"
+    ],
+    "user praise": [
+      "Total news junkie with good taste, so i consider it high praise :relaxed:",
+      "I've really been getting into Particle. It's very strong."
+    ],
+    "content classification issues": [
+      "The \u201cWall Street\u201d entity should be reclassified as a financial concept instead of as a specific location in New York City.",
+      "Why does this summary say that \u201cNew York\u201d is seeing heavy fighting, that city isn\u2019t even on the same continent."
+    ],
+    "labeling concerns": [
+      "The \u201cone-sided\u201d label is neither useful nor appropriate for this story.",
+      "The \u201cone-sided\u201d label does not seem useful or appropriate for this story."
+    ],
+    "misleading images": [
+      "Why is Beyonce in the photo?",
+      "The photo is of beyonce, who did not make an apace at the dnc, even though there were rumors she might.",
+      "Promo image is not about the story.",
+      "The photo of Beyonc\u00e9 is not relevant to the news story"
+    ],
+    "access and availability": [
+      "How is it funded? and can anyone sign up, or is it still invite only?"
+    ],
+    "feed issues": [
+      "Empty feed this morning build 118. PTR didn\u2019t fix. Close and reopened and feed hydrated.",
+      "Would be great if I could tune my feed for specific teams better (from the feed). Hard to parse how granular Less/more means"
+    ],
+    "misinformation concerns": [
+      "Including a tweet from notorious fake news spreader and divider Ian Miles Cheong in the links section seems bad."
+    ],
+    "inaccurate story timing": [
+      "Issue w current events: A story labeled as coming in 1hr ago was Joe Biden dropping out and endorsing Kamala Harris."
+    ],
+    "app stability": [
+      "A crash can hardly be authorized"
+    ],
+    "location relevance": [
+      "\u201cWall Street\u201d is not a useful indicator of a \u201clocal\u201d story that is \u201cnearby\u201d to me.",
+      "Is it possible to geo-tag articles, or ensure relevant location is included in headline?"
+    ],
+    "audio experience": [
+      "Consider removing the slow piano music under the podcast voice. Or making it more upbeat or only as a transition between stories\u2026?"
+    ],
+    "user questions and anonymity": [
+      "Love ability to ask questions about the news article, still debating if publicizing them by default is what I\u2019d prefer."
+    ],
+    "feature appreciation": [
+      "I\u2019ve been using Particle as my main source of news for several months and I love seeing new features added over time."
+    ],
+    "formatting issues": [
+      "Ok this was solid all around imo. Except maybe formatting. But that\u2019s a me problem."
+    ],
+    "image and headline mismatch": [
+      "Why is Trump Vance the image if the headline is Harris?"
+    ],
+    "content clarity": [
+      "Not a clear or direct answer"
+    ],
+    "audio control": [
+      "I should have the option to pause it from anywhere, kinda like a podcast app if you tap out of the playing screen."
+    ],
+    "location-based content accuracy": [
+      "Seems like AI mixes up Washington DC and Washington state for surfacing local stories"
+    ],
+    "thumbnail issues": [
+      "What is this thumbnail lol"
+    ],
+    "perceived advertisements": [
+      "Seems more like an ad"
+    ],
+    "content mixing": [
+      "This summary mixes Kamala Harris news with Wall St earnings projections. It doesn\u2019t link them together"
+    ],
+    "game/puzzle feature request": [
+      "But wouldn\u2019t it be delightful if there WAS a game/puzzle in my feed? :)"
+    ],
+    "unwanted sports stories": [
+      "The more nfl, mlb, and nba stories I remove, including changing subsection settings, the more stories I get!",
+      "What do I have to do to stop seeing baseball and nfl stories??? It seems impossible.",
+      "I don\u2019t want any mlb or nba stories, yet they keep showing up."
+    ],
+    "off-topic content": [
+      "The article is correct, but includes all images and videos are from the Trump assassination attempt.",
+      "Cited Tweets are off topic to the headline and main bullets too.",
+      "Image is off topic."
+    ],
+    "story duplication": [
+      "This story is appearing multiple times in my feed.",
+      "Duplicated in my afternoon digest. The second occurrence."
+    ],
+    "incorrect story content": [
+      "The story is about a firefighter, not a WWII veteran."
+    ],
+    "incorrect links": [
+      "The X in Xbox is tappable and links to X (Twitter). This is incorrect."
+    ],
+    "navigation and usability": [
+      "With the article list panel pulled up I\u2019d love to dismiss with a side swipe."
+    ],
+    "ui consistency": [
+      "I think having the close button in a consistent location would be helpful."
+    ],
+    "content categorization": [
+      "This seems more international politics than technology, which is where it was.",
+      "This sports story is in my technology feed ?"
+    ],
+    "podcast date issues": [
+      "Issue with Date on Particle Daily Podcast: The date is wrongly stated.",
+      "The recorded round up still dates back to Thursday morning."
+    ],
+    "profile customization": [
+      "Ability to add custom url on profile"
+    ],
+    "story labeling": [
+      "Stories covered by mainstream news publishers like this should not be labeled one-sided.",
+      "This story should be labeled one-sided",
+      "I don\u2019t think it\u2019s particularly useful to label this breaking media news story 'one-sided' just because it has been covered so far only by reliable, mainstream news publishers."
+    ],
+    "user interface and navigation": [
+      "When they got to the Topic Tuner, their first instinct was to hit 'less / more', instead of swipe.",
+      "The tap target for 'Allow Notifications' seemed to only work when you hit the text instead of the whole button.",
+      "I find myself wanting to swipe left/right on stories in the main feed."
+    ],
+    "tutorial and onboarding": [
+      "The tutorial style dialog boxes are a nice touch. The frequency seems to be spread out to not be overwhelming.",
+      "i watched someone onboard today, it was overall smooth but witnessed the following things..."
+    ],
+    "duplicated content": [
+      "Saw a case of a duplicated cluster in my feed and a topic grouping"
+    ],
+    "headline and byline mismatch": [
+      "The way the byline reads suggests malnutrition is a fact in Gaza. It\u2019s also unrelated to the headline."
+    ],
+    "dark mode feature": [
+      "Please add a light and dark mode toggle under settings. I keep my phone in light mode but prefer some apps in dark mode."
+    ],
+    "design and usability": [
+      "Particle has so many awesome features around AI questions for topics and articles but the design feels too body for me focus.",
+      "I like the app, I wish it asked if dense view was my preference in the beginning."
+    ],
+    "specific content following": [
+      "Give me ways to explicitly follow specific sport teams."
+    ],
+    "podcast control": [
+      "Wish there was a way to turn off the podcast without scrolling all the way back up."
+    ],
+    "article detail expansion": [
+      "The main feature I\u2019d like is the ability to expand on specific bullet points within each article."
+    ],
+    "links section clarity": [
+      "The \u201cLinks\u201d section feels overly technical and random to me more often than not."
+    ],
+    "headline appropriateness": [
+      "Kind of a weird headline considering Anthony Bourdain is dead.",
+      "Weird story"
+    ],
+    "explore feed issues": [
+      "I got an empty Explore feed this morning with everything else working fine.",
+      "Wonder if that\u2019s related to the Topics blank screen Sara was seeing on Friday (they both use the same API request) :thinking_face:"
+    ],
+    "upgrade process anomalies": [
+      "Odd message when my mom went to upgrade but it worked normally"
+    ],
+    "nux preference confusion": [
+      "This is a client even property on making a NUX preference on a card."
+    ],
+    "incorrect information in glossary": [
+      "The glossary identifies Santander Bank as a hacker group."
+    ],
+    "inaccurate titles": [
+      "Another case of an odd title for a person. \u201cPliny the Elder: AI hacker and whistleblower\u201d"
+    ],
+    "incorrect media": [
+      "cover photo is the wrong game/teams.",
+      "The Beatles photo seems pretty out of place here.",
+      "Several unrelated basketball videos got highlighted in the media row."
+    ],
+    "source reliability": [
+      "Maybe Al Jazeera (the source) isn\u2019t a reliable source for American sports."
+    ],
+    "feature request: content importance filter": [
+      "I recall a news ai site from a year ago that had a setting for what level of importance you cared about. I\u2019d love that here."
+    ],
+    "grammatical concerns": [
+      "Grammatically shouldn\u2019t these be \u201clean left\u201d and \u201clean right\u201d?"
+    ],
+    "unclear content": [
+      "I didn\u2019t realize that the BMW M4 was a new Apple chip \ud83e\udd14"
+    ],
+    "ai response issues": [
+      "Q doesn\u2019t seem to have generated an A"
+    ],
+    "content selection": [
+      "Poor topic selection in content preference rider (\u201cGeography\u201d)"
+    ],
+    "user experience": [
+      "UMMM my particle feed is on point",
+      "Particle\u2019s feelin\u2019 a bit sassy"
+    ],
+    "notification issues": [
+      "The notification said something about killing a \u201cgoat dog\u201d but I can\u2019t retrieve it."
+    ],
+    "content source queries": [
+      "Curious how you got Mark Gurman quote in here"
+    ],
+    "text formatting issues": [
+      "A lot of these text render with an orphan on the second line. Would love to see widow and orphans fixed in the future since I think it will make the screens much more polished."
+    ],
+    "first impressions and onboarding": [
+      "What a beautiful v1.0! First impressions: - theres a lot to see but I was able to orient pretty quickly (I\u2019m assuming you\u2019ll have an onboarding flow eventually, but even without it, I picked up how the app works)"
+    ],
+    "political spectrum feature": [
+      "discovered the political spectrum feature after a few minutes and wanted more. Took a second to figure out it was present when I tapped into an article but that was a moment that hooked me"
+    ],
+    "article sharing and contextualization": [
+      "It would be really nice to pull it into particle and contextualize what he\u2019s sending me into the larger story. See what it falls on the political spectrum, go deeper, that sort of thing"
+    ],
+    "unique profile features": [
+      "loved the zodiac sign in the profile. No idea what you plan to use it for, but it\u2019s unique. Made me laugh"
+    ],
+    "headline tense issues": [
+      "another example of the tense of the headline being off"
+    ],
+    "subheading curiosity": [
+      "Curious subheading"
+    ],
+    "content filtering issues": [
+      "User: esther Feedback: I keep down voting sports content but it keeps showing it to me. I have less than zero interest in that content but I can\u2019t seem to get rid of it."
+    ],
+    "headline and content mismatch": [
+      "*Feedback*: > Cluster seems unusual. Leading to another weird headline/image combo *From*: tyler",
+      "*Feedback*: > Similar to yesterday where headline and subheading indicate the Oscar\u2019s already occurred. This time the bullets indicate they are predictions. Weird. *From*: tyler",
+      "*Feedback*: > Weird that this is all currently phrased as it already happened. But the articles are predictions. Maybe a date issue? *From*: tyler"
+    ],
+    "image selection issues": [
+      "*Feedback*: > Unrelated header image selection *From*: jonah",
+      "*Feedback*: > Strange photo selection *From*: jonah",
+      "User: alexkennberg Feedback: When sharing a story, the preview loaded by iMessage (and others) is generic particle news logo image/title."
+    ],
+    "text selection feature request": [
+      "User: alexkennberg Feedback: In story view, I can long press on bullet points to Share but what I need is \u201cSelect Text\u201d option similar to ChatGPT app."
+    ],
+    "article timing issues": [
+      "User: brad Story: Biden Delivers State of the Union Address, Emphasizing Economic Progress and Warning Against GOP Alternatives Feedback: Hasn't happened yet...",
+      "*Feedback*: > Weird that this is all currently phrased as it already happened. But the articles are predictions. Maybe a date issue? *From*: tyler"
+    ],
+    "user intent and personalization": [
+      "Not monumental but observed in mixpanel that someone searched for \"houston rockets\" and then did More Like This on a story covering the rockets.",
+      "I would love a way to indicate preferences at the topic level \u2014 eg I don\u2019t follow most sports, so it would be great to be able to share that somehow or generally be able to curate my feed better"
+    ],
+    "audio digest feature": [
+      "I really love the Audio digest feature and it\u2019s something I\u2019ve wanted for a long time. I like morning news podcasts but would like to curate them a bit more to my specific interests."
+    ],
+    "local information": [
+      "Also would be cool to get some local intel eg weather!"
+    ],
+    "testing and development feedback": [
+      "Please ignore - testing if the build number is added to the feedback message."
+    ],
+    "headline context": [
+      "As if there was speculation? Headline prompt needs some amount of historical context"
+    ],
+    "q&a experience": [
+      "Excellent Q&A experience where I got the precise answer directly from the source."
+    ],
+    "user confusion": [
+      "we are not near Levi's (we're in tahoe) and also this is about the clothing brand not the stadium.",
+      "Pretty confusing on whether or not he has suspended the campaign."
+    ],
+    "visual and content presentation": [
+      "color immersion, image gallery adds visual detail, and bullets are pretty good with info.",
+      "The color theory really helps immersion, the image gallery provides all sorts of visual detail.",
+      "Killing it with this AI generated headline and subheadline goodness!"
+    ],
+    "headline clarity": [
+      "Possibly too vague of headline",
+      "Pretty confusing on whether or not he has suspended the campaign."
+    ],
+    "ai functionality": [
+      "I\u2019m getting a lot of silent failures when I ask the AI questions about this and other stories this evening."
+    ],
+    "content source availability": [
+      "Is the hollywood reporter on our ingest list? Found this and wanted to find it in particle"
+    ],
+    "user interface & navigation": [
+      "The hierarchy of the modules is a big deal, along with ease of use."
+    ]
+  },
+  "theme_descriptions": {
+    "location-based filtering": "Users want more precise filtering options to view news specific to their location or country.",
+    "content source control": "Users request the ability to control content sources, reducing exposure to sensationalist or biased news.",
+    "content relevance and updates": "Concerns about outdated or irrelevant content appearing in the news feed.",
+    "user interface and experience": "Suggestions for UI improvements to align with the latest iOS updates.",
+    "language and localization": "Requests for better language support and localization features.",
+    "personalization features": "Desire for enhanced personalization options to follow specific topics or regions.",
+    "social sharing": "Request for features that allow users to share the app with others.",
+    "visual content issues": "Feedback on irrelevant or confusing images accompanying news articles.",
+    "threaded discussions": "Suggestion to add a threaded discussion feature to increase user engagement.",
+    "appreciation and positive feedback": "General positive feedback and appreciation for the app's overall performance and features.",
+    "factual errors": "Users are reporting factual inaccuracies in the news articles, which undermines the credibility of the app.",
+    "image relevance": "Users are concerned about images that do not match or relate to the article content, causing confusion.",
+    "appreciation": "Positive feedback highlighting user satisfaction with the app's design and functionality.",
+    "western bias": "A user perceives a bias in the app's content, suggesting it favors Western perspectives.",
+    "relevance of content": "Users are receiving content that is not relevant to their location or interests.",
+    "ui issues on iphone": "Users are experiencing interface issues on iPhones, particularly with elements being obscured by the notch.",
+    "feature request: bookmarking": "Users are requesting the ability to bookmark or save articles for later reading.",
+    "irrelevant content": "Users are reporting content that is irrelevant or unrelated to the headline or topic.",
+    "spoiler alerts": "Users are requesting articles related to recent events be marked as spoilers to avoid revealing outcomes prematurely.",
+    "tagging and content relevance": "Users are concerned about irrelevant tags and content being shown in their feeds, requesting more accurate tagging and content relevance.",
+    "factual accuracy": "Users are reporting factual inaccuracies and misleading headlines, requesting better fact-checking and accurate reporting.",
+    "technical issues": "Users are experiencing technical issues with app functionality, specifically with accessing location settings.",
+    "content bias": "Users are concerned about perceived bias in the content, requesting more balanced and unbiased reporting.",
+    "misleading headlines": "Users are frustrated with headlines that do not accurately reflect the content of the articles, requesting more accurate headlines.",
+    "incorrect images": "Users are reporting issues with incorrect images being used in articles, requesting correct and relevant images.",
+    "authentication errors": "Users are experiencing authentication issues, specifically with expired tokens, preventing them from accessing content.",
+    "language preferences": "Users want the ability to select their preferred language for content, rather than having it automatically determined by location.",
+    "data usage concerns": "Users are requesting a text-only mode to reduce data usage, particularly for those with slow connections or data limitations.",
+    "outdated related articles": "Users are encountering outdated related articles, which diminishes the relevance and usefulness of the content.",
+    "bias in content": "Users perceive bias in the content, specifically in articles related to sensitive political topics.",
+    "rumor vs. official information": "Users are concerned about articles presenting rumors as confirmed information, leading to potential misinformation.",
+    "irrelevant images": "Users are encountering images that do not match the content of the articles, leading to confusion and a lack of coherence.",
+    "language support": "Users request additional language support and translation features within the app.",
+    "location-based article accuracy": "Users report inaccuracies in location-based articles, particularly confusing Washington State with Washington DC.",
+    "content personalization issues": "Users are dissatisfied with the app's content personalization, receiving unwanted stories despite preferences.",
+    "app icon customization": "Users request the ability to customize the app icon.",
+    "negative news content": "Users feel that the news content is overly negative, affecting their mood and leading them to consider discontinuing use of the app.",
+    "customizable default news view": "Users request a feature to set a preferred news view as their default for a more personalized experience.",
+    "language support - german": "Users are requesting the app to be available in the German language.",
+    "language support - chinese": "Users are requesting the app to support the Chinese language, including the interface.",
+    "alternative login options": "Users are requesting additional login options, such as Google, instead of being limited to Apple.",
+    "headline accuracy": "Users are concerned about the accuracy and timeliness of headlines, suggesting that some headlines are misleading or outdated.",
+    "general satisfaction": "Users express general satisfaction with the app, appreciating its overall quality and performance.",
+    "political spectrum analysis": "Users appreciate the political spectrum analysis feature but want clarity on its availability and the option to enable it for all articles.",
+    "publication date filter": "Users request the ability to filter news articles by their publication date to access trending or the latest news more efficiently.",
+    "tagging errors": "Users have identified errors in the tagging of articles, leading to incorrect categorization.",
+    "outdated articles": "Users are concerned about outdated articles appearing as newly published, causing confusion.",
+    "source coverage": "Users feel that the app lacks comprehensive news coverage, suggesting gaps in the sources provided.",
+    "customizable ai summaries": "Users are requesting more customization options for AI-generated summaries, allowing for personalized summary styles.",
+    "spoiler warnings": "Users request the addition of spoiler warnings for articles that reveal significant plot points or outcomes.",
+    "content accuracy": "Users are concerned about inaccuracies and misleading information in the news content.",
+    "spoilers": "Users are frustrated with spoilers being included in news summaries.",
+    "text-to-speech (tts) issues": "Users are experiencing issues with the TTS feature, including incorrect titles and pronunciation problems.",
+    "image mismatch": "Users have reported incorrect images being associated with articles.",
+    "content diversity": "Users are requesting more diverse content, including more regional news sources and articles.",
+    "ai summary quality": "Users are generally satisfied with AI summaries but desire more detailed responses.",
+    "political spectrum bias": "Concerns about the political spectrum used in the app being too simplistic and potentially introducing bias.",
+    "incorrect information": "Feedback highlighting incorrect information or dates in articles.",
+    "political alignment colors": "Suggestion to adjust political alignment colors to match local conventions.",
+    "capitalization errors": "Feedback about incorrect capitalization in article titles.",
+    "translation support": "A request for the app to support translation features to aid non-native English speakers.",
+    "content availability": "Feedback regarding the availability of content, specifically music, on streaming platforms.",
+    "game progress issues": "A user reports an issue with game progress being incorrectly marked as complete.",
+    "news source diversity": "A request for a broader range of news sources, particularly German ones, to provide balanced coverage.",
+    "mismatched images": "Users are concerned about images that do not correspond with the article content, leading to confusion.",
+    "incorrect article timing": "Users are frustrated with the incorrect timestamps on articles, which misrepresent the timeliness of the news.",
+    "geographical inaccuracies": "Users are pointing out errors in geographical information, where articles inaccurately specify locations or regions.",
+    "distracting advertisements": "Users are requesting the removal or modification of moving advertisements that disrupt their reading experience.",
+    "feature request: table and markdown support": "Users are requesting new features, specifically the ability to create tables and preview markdown in generated text.",
+    "content relevance and clustering": "Users suggest improvements in how news stories are grouped or clustered for better relevance.",
+    "follow story feature": "Request for a feature to follow specific stories rather than just topics or elements.",
+    "image accuracy": "Feedback on incorrect images being used in articles, suggesting a need for better image selection.",
+    "historical context": "Appreciation for providing historical context in news stories.",
+    "customization of daily digest": "Users want the ability to customize the timing of their daily digest notifications to better suit their personal schedules.",
+    "content relevance": "Users express disinterest in certain topics, indicating a need for more personalized content curation.",
+    "missing information": "Users find that important details are missing from news stories, which impacts the comprehensiveness of the reporting.",
+    "selection issues": "Users are experiencing difficulties in selecting specific teams or topics, indicating a need for improved selection functionality.",
+    "inappropriate images": "Users report that images accompanying articles are not relevant or appropriate, which can lead to confusion.",
+    "harmful or sensitive content": "Users have flagged content as harmful or sensitive, suggesting a need for better content moderation.",
+    "game hints and answers": "Users request improvements in game hints and the ability to access answers and previous games, enhancing the gaming experience.",
+    "user interface design": "Feedback suggests that the app's interface is cluttered and could benefit from a more minimalistic design.",
+    "media viewing experience": "Users request the ability to view images and videos in fullscreen mode by rotating their devices.",
+    "voice and language options": "Users are requesting additional voice options for audio content and more diverse language support, including translations.",
+    "content personalization": "Users express frustration with the app's personalization features, indicating that unwanted content continues to appear despite preferences being set.",
+    "content quality": "Positive feedback on the quality of content, highlighting well-written and informative articles.",
+    "outdated sources": "Users are concerned about the age of the sources used in news responses, which may affect the accuracy of the information.",
+    "spoilers in headlines": "Users are unhappy with spoilers being included in article headlines, which can ruin the experience for readers.",
+    "performance issues": "Users experience delays or lag when switching back to the app, affecting usability.",
+    "headline rewriting issues": "Problems with the app's ability to rewrite headlines correctly, leading to confusion or misinformation.",
+    "positive feedback and recommendations": "Users express satisfaction with the app and recommend it to others, appreciating its features and execution.",
+    "language availability": "Requests for additional language options in the app's translation features.",
+    "clarification on sports reporting": "Users point out inaccuracies or need for clarification in sports-related articles.",
+    "headline misleading": "Users are concerned about misleading headlines that misrepresent the content of the articles.",
+    "old news": "Users are frustrated with outdated news being presented as current, suggesting a need for more timely updates.",
+    "content preferences": "Users prefer a more organized and categorized news feed rather than a mixed home experience.",
+    "content filtering": "Users are requesting more control over the content they see, including the ability to filter out specific topics or viewpoints.",
+    "publisher suggestions": "Users are interested in suggesting new publishers for inclusion in the app, indicating a desire for a broader range of news sources.",
+    "positive feedback": "Some users express satisfaction with the app, indicating positive user experiences.",
+    "image errors": "Users are highlighting issues with incorrect or irrelevant images accompanying articles, which can mislead readers.",
+    "spelling mistakes": "There are complaints about consistent spelling errors in articles, which can detract from the professionalism of the content.",
+    "link errors": "Users are encountering incorrect links within articles, leading to confusion and misdirection.",
+    "elon musk and doge": "Users are questioning Elon Musk's involvement and authority in DOGE-related matters, expressing skepticism about his motives and benefits.",
+    "translation and language support": "Users are requesting additional language support, including Japanese, and highlighting issues with articles not being in English.",
+    "article content and presentation": "Concerns about the readability and presentation of articles, including font size, misleading headlines, and formatting errors.",
+    "article completeness and detail": "Users are dissatisfied with the lack of detailed information and comprehensive coverage in articles.",
+    "feedback on specific stories": "Users are providing feedback on specific stories, questioning the relevance and accuracy of the content.",
+    "downvoted feedback": "Users frequently downvote feedback related to various news topics, indicating dissatisfaction or disagreement with the content or its presentation.",
+    "doge and government waste": "Users express concerns over the politicization and chaotic nature of DOGE's actions related to government waste.",
+    "misclassification of news": "Users report issues with news articles being incorrectly categorized, leading to irrelevant content in themed collections.",
+    "legal and privacy concerns": "Users raise concerns about legal and privacy issues related to DOGE's access to sensitive data.",
+    "hp acquisition of humane": "Users question the rationale behind HP's acquisition of Humane, particularly given the failure of its AI Pin product.",
+    "probationary employee layoffs": "Users express concerns about the targeting of probationary employees for layoffs, highlighting issues of job protection.",
+    "international aid programs": "Users inquire about the existence of international aid programs similar to USAID in other countries.",
+    "inappropriate content highlighting": "Users report issues with certain terms being highlighted without context, leading to confusion.",
+    "downvoted content": "Several pieces of content have been downvoted, indicating user dissatisfaction or disagreement with the content presented.",
+    "political opinions": "Feedback includes strong political opinions, suggesting divisive content that may alienate some users.",
+    "repetitive content": "Users feel that the app presents the same headlines repeatedly, leading to a perception of stale content.",
+    "downvotes": "Several articles received downvotes, indicating user dissatisfaction with the content or its presentation.",
+    "image issues": "Users report that images accompanying articles are not relevant or do not make sense in context.",
+    "discrimination and legal risks": "Concerns about an executive order potentially increasing discrimination and legal challenges, particularly related to transgender participation in sports.",
+    "inexperience in governance": "Criticism of young engineers' inexperience in governance despite their technical achievements.",
+    "stopping musk's influence": "Suggestions on how to counteract Elon Musk's perceived growing influence in the Trump administration.",
+    "positive ai feature experience": "Positive feedback on the AI's ability to answer questions effectively, enhancing user experience.",
+    "inline link errors": "Issues with incorrect inline links leading to unrelated content, causing confusion.",
+    "trump's gaza plan criticism": "Criticism and skepticism about Trump's proposed plan for Gaza, questioning its justification and benefits.",
+    "feature request: customization": "Users request more customization options for organizing and viewing content within the app.",
+    "content organization": "Positive feedback on the organization of content, specifically the aggregation of quotes in one place.",
+    "link issues": "Feedback indicating issues with links, possibly related to functionality or accessibility.",
+    "user engagement": "User engagement through downvotes, indicating dissatisfaction with certain content or topics.",
+    "biased content": "A user perceives bias in the reporting of certain news articles.",
+    "navigation issues": "Users experience problems with app navigation, specifically when accessing articles from push notifications.",
+    "incorrect imagery": "Users report incorrect or misleading images accompanying news articles.",
+    "incorrect header images": "Users report that the header images used in articles are incorrect or unrelated to the content.",
+    "ui/ux issues": "Users encounter various UI/UX issues, including text overlap, rendering artifacts, and inconsistent font usage.",
+    "feature requests": "Users request additional features, such as the ability to follow up on questions and view question threads.",
+    "icon design": "Users find certain icons, like the 'discover' icon, unintuitive or unappealing.",
+    "old content": "Users are concerned about the app displaying outdated articles, which affects the relevance of the news feed.",
+    "privacy concerns": "Users are concerned about their privacy, specifically regarding the public display of their usernames when interacting with content.",
+    "highlighting issues": "Users are reporting issues with the app's highlighting feature, which can lead to misinterpretation of the content.",
+    "marking articles as read": "Users are requesting a feature to mark articles as read when they scroll past them, suggesting it as an optional setting.",
+    "legal and ethical reporting": "Users are concerned about the ethical implications of the content, particularly regarding the omission of legal context in reports.",
+    "outdated information": "Users are encountering outdated information being presented as current, which affects credibility.",
+    "translation feature request": "Users are requesting the addition of Japanese language support in the translation feature.",
+    "outdated news": "Users are concerned about outdated news stories appearing in their feed.",
+    "loading issues": "Users are experiencing issues with the app not loading content properly.",
+    "geographical misattribution": "Users are reporting errors in geographical attributions within news stories.",
+    "source credibility": "Users are requesting a ranking system for sources based on their credibility and reputation.",
+    "sharing issues": "Users are experiencing issues with sharing stories to external applications like Instapaper.",
+    "content sensitivity": "Concerns about potentially harmful or sensitive content being displayed in the app.",
+    "feature request: read articles filter": "Users requested a feature to filter out articles that have already been read to improve user experience.",
+    "bias in ai responses": "Users expressed concerns about perceived bias in AI-generated responses, preferring more neutral and factual information.",
+    "inadequate ai responses": "Users felt that the AI responses were insufficient or not adequately addressing their queries.",
+    "safety and security concerns": "Users raised concerns about the safety and security measures in place within the app.",
+    "app responsiveness issues": "Users are experiencing unresponsiveness and navigation issues within the app, particularly on specific pages.",
+    "app crashes": "The app crashes when users attempt to access or modify content preferences.",
+    "content source diversity": "Users are requesting a broader range of news sources, including local and reputable international publishers.",
+    "content curation and bias": "Concerns about potential bias in news curation and the need for better differentiation between traditional and new media outlets.",
+    "fact-checking and analysis": "A request for the app to include fact-checking and in-depth analysis to enhance the credibility of the news provided.",
+    "positive feedback on contextual information": "Positive feedback on the app providing additional context and sources for news stories.",
+    "search and reliability issues": "Users experienced issues with the search functionality and reliability of question-related features.",
+    "unrelated links": "Users found unrelated links in the articles, which may confuse or mislead readers.",
+    "quote contextualization": "Users requested the ability to click on quotes to view the full context within the article.",
+    "us-centric content": "Feedback indicated that the app's content is too focused on US news, limiting its global appeal.",
+    "interface and presentation": "Users found the default interface and presentation style cumbersome and not immediately engaging.",
+    "article content mismatch": "Users report mismatches between headlines, summaries, and article content, leading to confusion.",
+    "carousel functionality issues": "Users are experiencing issues with the carousel feature, particularly on iPads, affecting navigation.",
+    "feature request: source data and maps": "Users request enhanced features like accessing source data and providing maps for better context.",
+    "feature request: political spectrum view": "Users request the ability to view the political spectrum of article publishers for better understanding of biases.",
+    "account management: username correction": "Users want the ability to correct their username after account creation, indicating a need for more flexible account management.",
+    "general positive feedback": "Users express satisfaction with the app, highlighting its role as a primary news source.",
+    "article categorization issues": "Users are experiencing issues with articles being placed in incorrect categories, leading to confusion and misalignment with interests.",
+    "inconsistent article content": "Users are encountering discrepancies in article content, where different articles report conflicting information about the same event.",
+    "linking and highlighting errors": "Users report that highlighted text within articles links to unrelated topics, causing confusion and disrupting the reading experience.",
+    "political spectrum color confusion": "Users from the UK find the political spectrum colors misleading as they differ from the conventions used in the US.",
+    "outdated article summaries": "Users are concerned about article summaries not being updated in line with the latest information, leading to outdated content.",
+    "attribution and source crediting": "Users request that original sources and interviews be credited in articles to ensure proper attribution and context.",
+    "user interface improvements": "Users appreciate recent updates to the user interface, such as the addition of a carousel feature, enhancing the user experience.",
+    "confusion with headline cards vs list": "Users are unclear about the difference between headline cards and lists, indicating a need for better guidance or UI clarity.",
+    "font readability": "Concerns about the readability of headlines due to font weight and size.",
+    "podcast features": "Request for enhanced podcast functionality, including background play and auto-play features.",
+    "source information": "Users are requesting more source information for the news articles.",
+    "logo design feedback": "Feedback on the presentation and communication regarding new logo designs.",
+    "navigation improvements": "Users are requesting a more seamless way to navigate between articles.",
+    "content accuracy and clarity": "Users are concerned about the accuracy and clarity of content, including headlines and factual details.",
+    "link and formatting issues": "Users are experiencing issues with how links and text are formatted within articles.",
+    "source attribution": "Users want clearer attribution of sources and original interviews in articles.",
+    "breaking news notifications": "Users are requesting the addition of breaking news notifications to stay updated.",
+    "content relevance and localization": "Users are experiencing issues with content not being relevant to their location or preferences, such as receiving news from other countries or topics they have opted out of.",
+    "image and story mismatch": "There is a mismatch between images and the corresponding news stories, leading to confusion.",
+    "navigation and user experience": "Inconsistencies in navigation, particularly with the highlight feature, are affecting the user experience.",
+    "content freshness": "Users feel that the news content is not being updated frequently enough, leading to repetition.",
+    "video content control": "Users want more control over the video content they see, preferring it to be aligned with their interests.",
+    "podcast feature awareness": "Users are unaware of the podcast feature and suggest better onboarding to highlight this functionality.",
+    "comment and interaction features": "There is a lack of user engagement in the comments section, and users suggest integrating external comment platforms.",
+    "labeling and bias concerns": "Users are concerned about inappropriate labeling of news stories, which may indicate bias.",
+    "app design and aesthetics": "Positive feedback on the app's design and user interface, highlighting its aesthetic appeal and intuitiveness.",
+    "user interface concerns": "Users find the swipe gesture for changing slides to be awkward and not intuitive.",
+    "feature request: ios widget": "Users are requesting an iOS widget to access stories directly from the Home Screen.",
+    "content labeling concerns": "Users are concerned about the appropriateness of labels applied to certain news stories.",
+    "terminology clarification": "Users are seeking clarification on the use of specific terms within the app's content.",
+    "user praise": "Users express satisfaction and praise for the app, highlighting its quality.",
+    "content classification issues": "Users are concerned about incorrect classification or description of content within the app.",
+    "labeling concerns": "Feedback on inappropriate or unhelpful labels being used on news stories.",
+    "misleading images": "Users report issues with images that are misleading or irrelevant to the news stories.",
+    "access and availability": "Questions about the app's funding model and user access, specifically regarding invite-only status.",
+    "feed issues": "Users experience issues with feed loading and desire more granular control over feed customization.",
+    "misinformation concerns": "Users are concerned about the inclusion of potentially misleading or disproven content.",
+    "inaccurate story timing": "Users report inaccuracies in the timing of news stories.",
+    "app stability": "Users experience app crashes, indicating stability issues.",
+    "location relevance": "Users are concerned about the relevance of location in news stories and request better geo-tagging or location indicators.",
+    "audio experience": "Feedback on the podcast audio experience, suggesting changes to background music for better user engagement.",
+    "user questions and anonymity": "Users appreciate the ability to ask questions but are concerned about privacy and prefer options for anonymity or editing.",
+    "feature appreciation": "Positive feedback on the app's development and new feature additions.",
+    "formatting issues": "Users are experiencing issues with the formatting of articles, which may affect readability.",
+    "image and headline mismatch": "Users are noticing discrepancies between article images and headlines, leading to confusion.",
+    "content clarity": "Users find some articles lack clarity or directness in the information provided.",
+    "audio control": "Users request more convenient audio controls, similar to podcast apps, to pause audio digests easily.",
+    "location-based content accuracy": "Users are experiencing inaccuracies in location-based content, with stories not matching their actual location.",
+    "thumbnail issues": "Users are confused or dissatisfied with the thumbnails used for articles.",
+    "perceived advertisements": "Users feel that some content appears more like advertisements rather than news.",
+    "content mixing": "Users are finding that some summaries mix unrelated topics, leading to confusion.",
+    "game/puzzle feature request": "Users are requesting the addition of games or puzzles within the news feed for entertainment.",
+    "unwanted sports stories": "Users are frustrated with the inability to effectively filter out sports stories, specifically NFL, MLB, and NBA content, despite adjusting settings.",
+    "off-topic content": "Users are concerned about irrelevant images, videos, and tweets included in articles that do not align with the main content.",
+    "story duplication": "Users are experiencing repeated instances of the same story appearing in their feed or digest, leading to redundancy.",
+    "incorrect story content": "Users have identified discrepancies between the story headline and the actual content, leading to confusion.",
+    "incorrect links": "Users report incorrect hyperlinking within articles, leading to unintended destinations.",
+    "navigation and usability": "Users request more intuitive navigation options, such as swipe gestures, to improve app usability.",
+    "ui consistency": "Users are concerned about inconsistent UI elements, particularly the placement of buttons, leading to accidental actions.",
+    "content categorization": "Users report issues with articles appearing in incorrect categories, affecting content discovery.",
+    "podcast date issues": "Users report incorrect or outdated dates on podcast content, impacting the timeliness of information.",
+    "profile customization": "Users request the ability to personalize their profiles with custom URLs.",
+    "story labeling": "Users are concerned about the labeling of news stories as one-sided, particularly when covered by mainstream publishers.",
+    "user interface and navigation": "Users are experiencing issues with navigation and interface elements, suggesting improvements for intuitive interactions.",
+    "tutorial and onboarding": "Feedback on the onboarding process and tutorial dialogs is generally positive, but there are suggestions for improving the initial user experience.",
+    "duplicated content": "A user reported an issue with duplicated content appearing in their news feed.",
+    "headline and byline mismatch": "A concern was raised about the mismatch between headlines and bylines, leading to potential misinterpretation.",
+    "dark mode feature": "A request for a toggle option to switch between light and dark mode within the app.",
+    "design and usability": "Users are suggesting improvements in design and usability for better focus and personalization.",
+    "specific content following": "Users want the ability to follow specific sports teams or topics more explicitly.",
+    "podcast control": "A request for easier control over podcast playback, such as a quick way to stop it.",
+    "article detail expansion": "Users want the ability to delve deeper into specific points within articles for more detailed information.",
+    "links section clarity": "Users find the 'Links' section confusing and not intuitive, suggesting a need for better organization or explanation.",
+    "headline appropriateness": "Concerns about the appropriateness and relevance of headlines and story selections.",
+    "explore feed issues": "Users are experiencing issues with the Explore feed being empty, potentially linked to API requests.",
+    "upgrade process anomalies": "Users encountered unusual messages during the upgrade process, although functionality was not impaired.",
+    "nux preference confusion": "There is confusion regarding the number of cards needed to complete the NUX preference setup.",
+    "incorrect information in glossary": "The glossary contains incorrect information, misidentifying entities.",
+    "inaccurate titles": "Users report inaccurate or humorous titles in summaries, though details are correct.",
+    "incorrect media": "Users report incorrect or unrelated media being associated with stories, indicating a need for better media matching and filtering.",
+    "source reliability": "A user questions the reliability of a source for specific content, suggesting a need for better source selection or verification.",
+    "feature request: content importance filter": "A user requests a feature to filter content based on its importance, similar to a previous experience with another news platform.",
+    "grammatical concerns": "A user points out a grammatical issue, indicating a need for proofreading or language adjustments.",
+    "unclear content": "A user expresses confusion over content, indicating a potential issue with clarity or presentation.",
+    "ai response issues": "A user reports an issue with AI-generated responses, suggesting a need for improvement in AI interaction.",
+    "content selection": "Feedback regarding dissatisfaction with the topics selected by the app for users.",
+    "user experience": "General comments on the user experience and tone of the app, which some users find appealing.",
+    "notification issues": "Issues with notifications, including unclear or irretrievable content.",
+    "content source queries": "Questions regarding the sources of content or quotes used in the app.",
+    "text formatting issues": "Users are experiencing issues with text formatting, specifically with orphans and widows, affecting the visual polish of the app.",
+    "first impressions and onboarding": "Users appreciate the app's design and usability but suggest the addition of an onboarding flow to enhance the initial user experience.",
+    "political spectrum feature": "Users find the political spectrum feature engaging and suggest making it more prominent or easier to discover.",
+    "article sharing and contextualization": "Users request a feature to import shared articles into the app for contextual analysis and deeper exploration.",
+    "unique profile features": "Users appreciate unique profile features like zodiac signs, finding them amusing and distinctive.",
+    "headline tense issues": "Users notice issues with the tense used in headlines, which may affect the clarity or accuracy of the news presented.",
+    "subheading curiosity": "Users express curiosity or confusion about certain subheadings, indicating a potential need for clearer or more informative subheadings.",
+    "content filtering issues": "Users are experiencing issues with content filtering, where downvoted topics continue to appear in their feed.",
+    "headline and content mismatch": "Users are noticing inconsistencies between headlines and the actual content, particularly with articles that are predictions being phrased as past events.",
+    "image selection issues": "There are complaints about inappropriate or generic image selections for articles, affecting both in-app display and sharing previews.",
+    "text selection feature request": "Users are requesting a text selection feature to allow copying specific parts of articles, rather than sharing entire stories.",
+    "article timing issues": "Users are reporting issues with articles being presented as if events have already occurred when they have not.",
+    "user intent and personalization": "Users are interested in features that allow them to express their preferences and personalize their news feed to better match their interests.",
+    "audio digest feature": "Positive feedback on the audio digest feature, with a request for more customization options to tailor content to personal interests.",
+    "local information": "Request for more localized content, such as weather updates, to be included in the app.",
+    "testing and development feedback": "Feedback related to testing and development processes, indicating ongoing app development.",
+    "headline context": "Request for headlines to include more historical context to provide clarity and reduce speculation.",
+    "q&a experience": "Positive feedback on the Q&A feature, highlighting its effectiveness in providing accurate information.",
+    "user confusion": "Users are experiencing confusion due to unclear content or misleading headlines.",
+    "visual and content presentation": "Positive feedback on the visual presentation and content layout, including color use and image galleries.",
+    "headline clarity": "Concerns about headlines being vague or unclear, leading to potential misunderstandings.",
+    "ai functionality": "Issues with AI functionality, particularly in responding to user queries.",
+    "content source availability": "Requests for confirmation or inclusion of specific content sources within the app.",
+    "user interface & navigation": "Users are concerned about the organization and accessibility of the app's interface. They find the current setup satisfactory but suggest exploring alternatives for potential improvements."
+  },
+  "top_10_themes": [
+    {
+      "theme": "factual errors",
+      "count": 41,
+      "percentage": 1.5763168012302962,
+      "description": "Users are reporting factual inaccuracies in the news articles, which undermines the credibility of the app.",
+      "examples": [
+        "_Factual errors are visible_ Misleading *Feedback provided on cluster*: Trump Brokers Peace Agreement Between Rwanda and the DRC for June 27 Signing (_Updated 2h ago_)",
+        "_Factual errors are visible_ In the quotes section, this article lists murdoch as the 45th and 47th president of the United States *Feedback provided on cluster*: Trump Declares \u2018MAGA Hates FoxNews\u2019 in Truth Social Tirade Against Murdoch Outlets (_Updated 51m ago_)",
+        "_Factual errors are visible_ It is 17h30 right now, and the WWDC 2025 is in half an hour. Apple has introduced nothing yet."
+      ]
+    },
+    {
+      "theme": "content accuracy",
+      "count": 13,
+      "percentage": 0.4998077662437524,
+      "description": "Users are concerned about inaccuracies and misleading information in the news content.",
+      "examples": [
+        "This story has drawn in 70 wildly different articles that are barely tangentially related - the summary implies that the budget is being delayed and the law enforcement action is somehow also part of that. Not accurate.",
+        "The above is alleged and only by the US without any confirmation by either parties involved",
+        "Factual errors are visible"
+      ]
+    },
+    {
+      "theme": "positive feedback",
+      "count": 11,
+      "percentage": 0.4229142637447136,
+      "description": "Some users express satisfaction with the app, indicating positive user experiences.",
+      "examples": [
+        "Love it!",
+        "This is the absolute greatest app of all time. You nailed the user experience across the board.",
+        "Banger"
+      ]
+    },
+    {
+      "theme": "image relevance",
+      "count": 9,
+      "percentage": 0.34602076124567477,
+      "description": "Users are concerned about images that do not match or relate to the article content, causing confusion.",
+      "examples": [
+        "_Image doesn't make sense_ *Feedback provided on*: <https://particle.news/story/5766186?utm_source=particle|GOP Split Over SALT Cap Brings Reconciliation Bill to Standstill>",
+        "The image accompanying the headline has nothing to do with Copenhagen *Feedback provided on cluster*: Copenhagen Tops EIU Liveability Index 2025, Dethroning Vienna (_Updated 25 min ago_)",
+        "_Image doesn't make sense_ *Feedback provided on cluster*: Hurricanes Shut Out Panthers 3-0 to Snap East Final Losing Streak (_Updated 40m ago_)"
+      ]
+    },
+    {
+      "theme": "incorrect images",
+      "count": 9,
+      "percentage": 0.34602076124567477,
+      "description": "Users are reporting issues with incorrect images being used in articles, requesting correct and relevant images.",
+      "examples": [
+        "Incorrect thumbnail image",
+        "The story\u2019s image is for a different game, one not including either team.",
+        "The main photo used in this story is fake, and the model sourced it from the website deeming it fake."
+      ]
+    },
+    {
+      "theme": "downvoted feedback",
+      "count": 8,
+      "percentage": 0.30757400999615536,
+      "description": "Users frequently downvote feedback related to various news topics, indicating dissatisfaction or disagreement with the content or its presentation.",
+      "examples": [
+        "_Downvoted_ *Feedback provided on*: Why are there so many plane problems recently?",
+        "_Downvoted_ *Feedback provided on*: Why did HP decide to acquire Humane despite the AI Pin's failure?",
+        "_Downvoted_ *Feedback provided on*: Why are people ignoring the goals of DOGE like cutting government waste?"
+      ]
+    },
+    {
+      "theme": "factual accuracy",
+      "count": 7,
+      "percentage": 0.2691272587466359,
+      "description": "Users are reporting factual inaccuracies and misleading headlines, requesting better fact-checking and accurate reporting.",
+      "examples": [
+        "Factual errors are visible  Don\u2019t think the notification was true, from what I read Gyokeres was planning to look elsewhere after he rejected United but that was false, I opened thinking it was true and read through it, need to fact check these notifications please",
+        "The term \u201cwidespread violence\u201d is inaccurate - \u201cviolence\u201d in LA accounted for .01 % of urban space in LA. Correct this factually incorrect and misleading headline.",
+        "The article headline referred to fertility rates, yet the primary factors were economic. The headline seemed to be misleading and betrayed the reasons for the issue."
+      ]
+    },
+    {
+      "theme": "image mismatch",
+      "count": 7,
+      "percentage": 0.2691272587466359,
+      "description": "Users have reported incorrect images being associated with articles.",
+      "examples": [
+        "Interesting story, and the AI summaries were on point BUT the images that got pulled in to accompany the story were incorrect.",
+        "_Image doesn't make sense_ *Feedback provided on cluster*: AfD Files Lawsuit Over Extremist Classification as Germany Prepares for New Government",
+        "Image doesn\u2019t match article *Feedback provided on cluster*: Oscar Piastri Wins Miami Grand Prix, Leads McLaren 1-2 Finish"
+      ]
+    },
+    {
+      "theme": "content preferences",
+      "count": 6,
+      "percentage": 0.2306805074971165,
+      "description": "Users prefer a more organized and categorized news feed rather than a mixed home experience.",
+      "examples": [
+        "Not liking this more mixed home experience. Like the firm categories much more.",
+        "Would love to be able to set a bias for positive stories, but still include occasional negative stories.",
+        "I find myself wanting to swipe left/right on stories in the main feed. Left = don\u2019t want to read / don\u2019t care about this topic Right = save for later / care about this topic"
+      ]
+    },
+    {
+      "theme": "misleading headlines",
+      "count": 5,
+      "percentage": 0.1922337562475971,
+      "description": "Users are frustrated with headlines that do not accurately reflect the content of the articles, requesting more accurate headlines.",
+      "examples": [
+        "The article headline referred to fertility rates, yet the primary factors were economic. The headline seemed to be misleading and betrayed the reasons for the issue.",
+        "The term \u201cwidespread violence\u201d is inaccurate - \u201cviolence\u201d in LA accounted for .01 % of urban space in LA. Correct this factually incorrect and misleading headline.",
+        "The headline is misleading, this is McAfee\u2019s first ever WWE in ring fight"
+      ]
+    }
+  ]
+}

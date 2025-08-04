@@ -1,0 +1,143 @@
+{
+  "total_feedback": 2653,
+  "theme_counts": {
+    "source filtering/blocking": 743,
+    "location/local news": 1884,
+    "content variety": 152,
+    "user interface/UX": 815,
+    "sharing features": 99,
+    "pricing/subscription": 1711,
+    "notification settings": 95,
+    "language/localization": 114,
+    "search functionality": 92,
+    "content quality": 200,
+    "reading experience": 235,
+    "personalization/customization": 80,
+    "offline reading": 19,
+    "app performance": 157
+  },
+  "theme_examples": {
+    "source filtering/blocking": [
+      "i absolutely love this app, everything is just great. i am a student and i use this app to prepare c...",
+      "I want to be able to see less content from select news sources that are known to clickbate or sensat...",
+      "This is not news. With no date given, it\u2019s filler content from \u2018news\u2019 sources clickbating.  *Feedbac..."
+    ],
+    "location/local news": [
+      "i absolutely love this app, everything is just great. i am a student and i use this app to prepare c...",
+      "Hi there! \ud83d\ude0a I'm Gokula Kannan, and I just have to say that I absolutely adore this app! I've been a ...",
+      "This is old and should. Not be in the feed!  *Feedback provided on cluster*: Trump Strikes Iran\u2019s Nu..."
+    ],
+    "content variety": [
+      "i absolutely love this app, everything is just great. i am a student and i use this app to prepare c...",
+      "\uc0c1\ud638\uc791\uc6a9 \uc694\uc18c\uac00 \uc788\ub294 Dear Developer of Particle, I am one of your big fan so i just wanted to take a moment t...",
+      "This is a game changing application. Unfortunately, it didn\u2019t appear to reliably pull from smaller s..."
+    ],
+    "user interface/UX": [
+      "Hi there! \ud83d\ude0a I'm Gokula Kannan, and I just have to say that I absolutely adore this app! I've been a ...",
+      "i\u2019ve only had the app shortly but i can already tell it\u2019s an innovative and useful news app. 100% th...",
+      "\uc0c1\ud638\uc791\uc6a9 \uc694\uc18c\uac00 \uc788\ub294 Dear Developer of Particle, I am one of your big fan so i just wanted to take a moment t..."
+    ],
+    "sharing features": [
+      "Hi there! \ud83d\ude0a I'm Gokula Kannan, and I just have to say that I absolutely adore this app! I've been a ...",
+      "Give an option to share the app with contacts!",
+      "i\u2019ve only had the app shortly but i can already tell it\u2019s an innovative and useful news app. 100% th..."
+    ],
+    "pricing/subscription": [
+      "Hi there! \ud83d\ude0a I'm Gokula Kannan, and I just have to say that I absolutely adore this app! I've been a ...",
+      "This is old and should. Not be in the feed!  *Feedback provided on cluster*: Trump Strikes Iran\u2019s Nu...",
+      "This is not news. With no date given, it\u2019s filler content from \u2018news\u2019 sources clickbating.  *Feedbac..."
+    ],
+    "notification settings": [
+      "This is not news. With no date given, it\u2019s filler content from \u2018news\u2019 sources clickbating.  *Feedbac...",
+      "This is an example of Particle pushing a narrative that is untrue based on sensationalist journalism...",
+      "_Image doesn't make sense_ *Feedback provided on cluster*: Trump Bombs Iranian Nuclear Sites Without..."
+    ],
+    "language/localization": [
+      "\uc0c1\ud638\uc791\uc6a9 \uc694\uc18c\uac00 \uc788\ub294 As a big fan of your app, I wanted to let you know what would be much better for users w...",
+      "i\u2019ve only had the app shortly but i can already tell it\u2019s an innovative and useful news app. 100% th...",
+      "One article seems to be unrelated *Feedback provided on cluster*: Celtics Select Spanish Wing Hugo G..."
+    ],
+    "search functionality": [
+      "\uc0c1\ud638\uc791\uc6a9 \uc694\uc18c\uac00 \uc788\ub294 As a big fan of your app, I wanted to let you know what would be much better for users w...",
+      "Cmon! This is DAYS old and it\u2019s really important to know if the US did this again or if it\u2019s OLD new...",
+      "When listening to science articles, the phrase \u201clead researcher\u201d is very common. The app\u2019s voice pro..."
+    ],
+    "content quality": [
+      "i\u2019ve only had the app shortly but i can already tell it\u2019s an innovative and useful news app. 100% th...",
+      "\uc0c1\ud638\uc791\uc6a9 \uc694\uc18c\uac00 \uc788\ub294 Dear Developer of Particle, I am one of your big fan so i just wanted to take a moment t...",
+      "_Factual errors are visible_  HBO Max is not returning as Max. They are reverting back to HBO Max in..."
+    ],
+    "reading experience": [
+      "i\u2019ve only had the app shortly but i can already tell it\u2019s an innovative and useful news app. 100% th...",
+      "\uc0c1\ud638\uc791\uc6a9 \uc694\uc18c\uac00 \uc788\ub294 Dear Developer of Particle, I am one of your big fan so i just wanted to take a moment t...",
+      "_Factual errors are visible_  HBO Max is not returning as Max. They are reverting back to HBO Max in..."
+    ],
+    "personalization/customization": [
+      "\uc0c1\ud638\uc791\uc6a9 \uc694\uc18c\uac00 \uc788\ub294 Dear Developer of Particle, I am one of your big fan so i just wanted to take a moment t...",
+      "It\u2019s not letting me open location settings *Error*: LocalizedError(errorDescription: There was a pro...",
+      "If you keep going on the initial story select screen, it will become progressively more laggy and th..."
+    ],
+    "offline reading": [
+      "\uc0c1\ud638\uc791\uc6a9 \uc694\uc18c\uac00 \uc788\ub294 Dear Developer of Particle, I am one of your big fan so i just wanted to take a moment t...",
+      "Thank you! This is a wonderful app! Is it possible to bookmark or save some articles?",
+      "Just downloaded today and I am loving the app. Especially the audio event of this. If there was an a..."
+    ],
+    "app performance": [
+      "I don\u2019t think this has happened yet. The draft starts tonight  *Feedback provided on cluster*: Coope...",
+      "this answer is previously established knowledge that contradicts new insights from the very article ...",
+      "_Factual errors are visible_  The Air India crash was a 787. Uninstalling this trash app. Facts are ..."
+    ]
+  },
+  "top_10_themes": [
+    {
+      "theme": "location/local news",
+      "count": 1884,
+      "percentage": 71.0139464756879
+    },
+    {
+      "theme": "pricing/subscription",
+      "count": 1711,
+      "percentage": 64.49302676215605
+    },
+    {
+      "theme": "user interface/UX",
+      "count": 815,
+      "percentage": 30.719939690915943
+    },
+    {
+      "theme": "source filtering/blocking",
+      "count": 743,
+      "percentage": 28.006030908405577
+    },
+    {
+      "theme": "reading experience",
+      "count": 235,
+      "percentage": 8.857896720693555
+    },
+    {
+      "theme": "content quality",
+      "count": 200,
+      "percentage": 7.538635506973238
+    },
+    {
+      "theme": "app performance",
+      "count": 157,
+      "percentage": 5.917828872973992
+    },
+    {
+      "theme": "content variety",
+      "count": 152,
+      "percentage": 5.729362985299661
+    },
+    {
+      "theme": "language/localization",
+      "count": 114,
+      "percentage": 4.297022238974746
+    },
+    {
+      "theme": "sharing features",
+      "count": 99,
+      "percentage": 3.731624575951753
+    }
+  ]
+}
